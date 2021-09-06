@@ -1,0 +1,2317 @@
+anio,mes,operación,pais_de_origen_o_destino,umed,cantidad,dolares,pesos
+2000,Febrero,Importación,Austria,ton,0.252,1695,16123
+2000,Abril,Importación,Austria,ton,0.336,2250,20928
+2000,Mayo,Importación,Austria,ton,0.336,2256,21190
+2000,Agosto,Importación,Austria,ton,0.588,3966,36962
+2000,Noviembre,Importación,Austria,ton,0.336,2273,21669
+2000,Abril,Importación,Brasil,ton,0.2,1739,16212
+2000,Septiembre,Importación,Brasil,ton,0.22,1774,16298
+2000,Septiembre,Importación,Canadá,ton,0.324,2858,26937
+2000,Enero,Importación,China,ton,0.37,3000,28339
+2000,Marzo,Importación,China,ton,0.5,5756,53678
+2000,Abril,Importación,China,ton,19.72,17255,160497
+2000,Julio,Importación,China,ton,0.5,5135,51451
+2000,Agosto,Importación,China,ton,0.3,3000,28006
+2000,Octubre,Importación,China,ton,20.01,8504,80475
+2000,Noviembre,Importación,China,ton,0.3,3000,28137
+2000,Enero,Importación,Estados Unidos,ton,0.093,723,6846
+2000,Febrero,Importación,Estados Unidos,ton,3.971,6569,61807
+2000,Marzo,Importación,Estados Unidos,ton,0.253,4211,39270
+2000,Abril,Importación,Estados Unidos,ton,0.412,1500,14135
+2000,Mayo,Importación,Estados Unidos,ton,0.137,1920,18111
+2000,Junio,Importación,Estados Unidos,ton,0.029,773,7486
+2000,Julio,Importación,Estados Unidos,ton,0.013,146,1390
+2000,Agosto,Importación,Estados Unidos,ton,0.047,1142,10661
+2000,Septiembre,Importación,Estados Unidos,ton,0.052,815,7607
+2000,Octubre,Importación,Estados Unidos,ton,0.599,3997,38187
+2000,Noviembre,Importación,Estados Unidos,ton,0.427,1530,14590
+2000,Diciembre,Importación,Estados Unidos,ton,3.374,13223,124950
+2000,Mayo,Importación,Francia,ton,0.57,1885,17792
+2000,Octubre,Importación,Francia,ton,0.57,1841,17144
+2000,Marzo,Importación,Nueva Zelanda,ton,0.136,432,4003
+2000,Abril,Importación,Nueva Zelanda,ton,0.163,518,4865
+2000,Febrero,Importación,Suiza,ton,0.815,5924,55892
+2000,Julio,Importación,Suiza,ton,0.815,5987,56348
+2000,Agosto,Importación,Suiza,ton,0.815,6081,56924
+2000,Diciembre,Importación,Suiza,ton,0.815,5357,50386
+2001,Diciembre,Importación,Alemania,ton,0.011,51,473
+2001,Marzo,Importación,Austria,ton,1.01,6417,62273
+2001,Mayo,Importación,Austria,ton,0.83,4436,41761
+2001,Octubre,Importación,Austria,ton,0.83,4379,40544
+2001,Marzo,Importación,Brasil,ton,0.2,1774,17482
+2001,Septiembre,Importación,Brasil,ton,0.2,1651,15058
+2001,Febrero,Importación,China,ton,19.72,21396,207346
+2001,Junio,Importación,China,ton,315.52,284668,2579961
+2001,Julio,Importación,China,ton,276.08,249852,2256463
+2001,Septiembre,Importación,China,ton,98.6,87754,815217
+2001,Diciembre,Importación,China,ton,403.68,367697,3383502
+2001,Septiembre,Importación,Cuba,ton,72.799,67339,614165
+2001,Octubre,Importación,Cuba,ton,36.416,32225,297598
+2001,Enero,Importación,Estados Unidos,ton,0.213,922,9031
+2001,Febrero,Importación,Estados Unidos,ton,0.139,1440,13949
+2001,Marzo,Importación,Estados Unidos,ton,0.031,367,3555
+2001,Abril,Importación,Estados Unidos,ton,0.408,913,8601
+2001,Mayo,Importación,Estados Unidos,ton,0.234,1250,11500
+2001,Junio,Importación,Estados Unidos,ton,1.548,4618,41931
+2001,Julio,Importación,Estados Unidos,ton,0.258,778,7196
+2001,Agosto,Importación,Estados Unidos,ton,3.727,8358,76214
+2001,Septiembre,Importación,Estados Unidos,ton,46.514,89073,836574
+2001,Octubre,Importación,Estados Unidos,ton,21.607,50309,467660
+2001,Noviembre,Importación,Estados Unidos,ton,12.86,24436,225486
+2001,Diciembre,Importación,Estados Unidos,ton,31.965,60943,558632
+2001,Febrero,Importación,Francia,ton,0.57,1838,18172
+2001,Junio,Importación,Francia,ton,0.228,651,5971
+2001,Julio,Importación,Francia,ton,0.57,1737,15687
+2001,Noviembre,Importación,Francia,ton,0.357,944,8681
+2001,Mayo,Importación,Suiza,ton,1.231,8366,77593
+2001,Octubre,Importación,Suiza,ton,1.019,7394,70403
+2002,Abril,Exportación,Alemania,ton,1881.902,2823449,25865185
+2002,Mayo,Exportación,Alemania,ton,1678.305,2859483,27064680
+2002,Junio,Exportación,Alemania,ton,2530.394,4822055,47012431
+2002,Julio,Exportación,Alemania,ton,2062.453,3903224,38201127
+2002,Agosto,Exportación,Alemania,ton,639.616,1184423,11696046
+2002,Septiembre,Exportación,Alemania,ton,94.401,174986,1760497
+2002,Octubre,Exportación,Alemania,ton,147.406,389599,3901654
+2002,Noviembre,Exportación,Alemania,ton,1154.157,3377030,34458869
+2002,Diciembre,Exportación,Alemania,ton,804.142,2063545,21058559
+2002,Abril,Exportación,Arabia Saudita,ton,209.924,324735,3002480
+2002,Mayo,Exportación,Arabia Saudita,ton,202.928,372289,3535999
+2002,Junio,Exportación,Arabia Saudita,ton,132.913,216669,2098218
+2002,Julio,Exportación,Arabia Saudita,ton,60,93300,927894
+2002,Mayo,Importación,Austria,ton,1.206,9036,81727
+2002,Abril,Exportación,Bélgica,ton,248.928,368397,3356329
+2002,Mayo,Exportación,Bélgica,ton,362.069,627862,5972996
+2002,Junio,Exportación,Bélgica,ton,233.918,435144,4298057
+2002,Julio,Exportación,Bélgica,ton,64.586,97915,944807
+2002,Agosto,Exportación,Bélgica,ton,21.6,39960,397650
+2002,Noviembre,Exportación,Bélgica,ton,138.762,544505,5521947
+2002,Diciembre,Exportación,Bélgica,ton,46.595,137413,1411561
+2002,Enero,Importación,Brasil,ton,0.2,1653,15355
+2002,Junio,Exportación,Canadá,ton,19.72,32538,313660
+2002,Enero,Importación,China,ton,234.9,216134,1979861
+2002,Marzo,Importación,China,ton,101.5,97948,893109
+2002,Abril,Importación,China,ton,162.4,177016,1603015
+2002,Abril,Exportación,Costa Rica,ton,19.2,30720,278849
+2002,Julio,Exportación,Costa Rica,ton,0.139,463,4489
+2002,Septiembre,Exportación,Costa Rica,ton,0.555,1245,12895
+2002,Enero,Importación,Cuba,ton,72.773,76412,698161
+2002,Mayo,Exportación,España,ton,19.5,32663,309737
+2002,Septiembre,Importación,España,ton,0.012,39,373
+2002,Octubre,Importación,España,ton,3.552,11833,120303
+2002,Enero,Importación,Estados Unidos,ton,37.36,76528,703187
+2002,Febrero,Importación,Estados Unidos,ton,48.021,93012,846552
+2002,Marzo,Importación,Estados Unidos,ton,18.568,38592,350240
+2002,Abril,Importación,Estados Unidos,ton,44.814,88319,803751
+2002,Abril,Exportación,Estados Unidos,ton,622.669,872301,7999595
+2002,Mayo,Importación,Estados Unidos,ton,38.77,85309,812262
+2002,Mayo,Exportación,Estados Unidos,ton,1831.121,3173724,30150517
+2002,Junio,Importación,Estados Unidos,ton,7.933,17246,167659
+2002,Junio,Exportación,Estados Unidos,ton,832.805,1442633,14154774
+2002,Julio,Exportación,Estados Unidos,ton,963.71,1702316,16699013
+2002,Agosto,Importación,Estados Unidos,ton,3.28,9069,89848
+2002,Agosto,Exportación,Estados Unidos,ton,596.244,1014535,9997532
+2002,Septiembre,Importación,Estados Unidos,ton,7.177,19951,199754
+2002,Septiembre,Exportación,Estados Unidos,ton,499.946,1147396,11546416
+2002,Octubre,Exportación,Estados Unidos,ton,1687.685,4905764,49478588
+2002,Noviembre,Importación,Estados Unidos,ton,0.15,1459,14698
+2002,Noviembre,Exportación,Estados Unidos,ton,992.34,2625511,26786229
+2002,Diciembre,Importación,Estados Unidos,ton,0.067,784,7985
+2002,Diciembre,Exportación,Estados Unidos,ton,439.78,1068108,10892943
+2002,Septiembre,Exportación,Filipinas,ton,20.06,41123,411863
+2002,Mayo,Importación,Francia,ton,0.57,1437,13099
+2002,Abril,Exportación,Honduras,ton,3.123,5720,52393
+2002,Marzo,Importación,Hungría,ton,0.874,5614,51573
+2002,Abril,Exportación,Italia,ton,20.13,33215,306398
+2002,Mayo,Exportación,Italia,ton,85.986,142734,1360452
+2002,Junio,Exportación,Italia,ton,20.79,39501,383744
+2002,Abril,Exportación,Japón,ton,40.514,79124,715645
+2002,Mayo,Exportación,Japón,ton,59.466,116137,1104486
+2002,Junio,Exportación,Japón,ton,72,140400,1372550
+2002,Julio,Exportación,Japón,ton,39,89700,878598
+2002,Mayo,Exportación,Países Bajos,ton,79.746,133929,1275516
+2002,Agosto,Exportación,Países Bajos,ton,20.88,36000,350903
+2002,Septiembre,Exportación,Países no Identificados,ton,0.014,368,3647
+2002,Noviembre,Exportación,Países no Identificados,ton,0.012,225,2284
+2002,Mayo,Exportación,Panamá,ton,10.03,17553,167112
+2002,Agosto,Exportación,Panamá,ton,10.62,18585,182899
+2002,Abril,Exportación,Perú,ton,0.025,319,2886
+2002,Abril,Exportación,Puerto Rico,ton,42.123,64238,588312
+2002,Mayo,Exportación,Puerto Rico,ton,21,32025,304564
+2002,Junio,Exportación,Puerto Rico,ton,21.225,36932,358215
+2002,Julio,Exportación,Puerto Rico,ton,42.127,73303,720847
+2002,Abril,Exportación,Reino Unido,ton,904.394,1328908,12250842
+2002,Mayo,Exportación,Reino Unido,ton,804.22,1352458,12815777
+2002,Junio,Exportación,Reino Unido,ton,493.258,916463,8905173
+2002,Julio,Exportación,Reino Unido,ton,505.46,962558,9439214
+2002,Agosto,Exportación,Reino Unido,ton,81.9,154833,1519845
+2002,Septiembre,Exportación,Reino Unido,ton,23.09,92378,924852
+2002,Enero,Importación,Suiza,ton,0.611,4074,37166
+2002,Abril,Importación,Suiza,ton,2.038,14322,129536
+2002,Abril,Exportación,Suiza,ton,366.801,563515,5224331
+2002,Mayo,Exportación,Suiza,ton,423.335,693817,6600715
+2002,Junio,Exportación,Suiza,ton,263.137,479242,4730232
+2002,Julio,Exportación,Suiza,ton,161.282,303905,2972230
+2002,Agosto,Exportación,Suiza,ton,86.4,159840,1581617
+2002,Octubre,Exportación,Suiza,ton,21.7,50995,509012
+2002,Noviembre,Exportación,Suiza,ton,53.868,163070,1658292
+2002,Mayo,Exportación,Venezuela,ton,45.38,47359,449535
+2003,Enero,Exportación,Alemania,ton,719.125,1910721,20162195
+2003,Febrero,Exportación,Alemania,ton,781.375,2034923,22334675
+2003,Marzo,Exportación,Alemania,ton,793.195,2155055,23578042
+2003,Abril,Exportación,Alemania,ton,990.056,2788566,29688119
+2003,Mayo,Exportación,Alemania,ton,1071.036,3068520,31461908
+2003,Junio,Exportación,Alemania,ton,1787.127,5221378,55092944
+2003,Julio,Exportación,Alemania,ton,1109.762,3146159,32784083
+2003,Agosto,Exportación,Alemania,ton,460.091,1277233,13681321
+2003,Septiembre,Exportación,Alemania,ton,0.258,850,9190
+2003,Octubre,Exportación,Alemania,ton,258.336,689902,7685098
+2003,Noviembre,Importación,Alemania,ton,0.012,384,4228
+2003,Noviembre,Exportación,Alemania,ton,1166.344,3212355,35782523
+2003,Diciembre,Exportación,Alemania,ton,1669.265,4613292,51832096
+2003,Enero,Exportación,Arabia Saudita,ton,67.557,173848,1872482
+2003,Febrero,Exportación,Arabia Saudita,ton,201.075,523819,5740864
+2003,Marzo,Exportación,Arabia Saudita,ton,259.2,705840,7647374
+2003,Abril,Exportación,Arabia Saudita,ton,255.54,735030,7826116
+2003,Mayo,Exportación,Arabia Saudita,ton,751.2,2133406,21853058
+2003,Junio,Exportación,Arabia Saudita,ton,265.2,712221,7450464
+2003,Julio,Exportación,Arabia Saudita,ton,184.8,500160,5213383
+2003,Agosto,Exportación,Arabia Saudita,ton,129.6,368064,3901368
+2003,Febrero,Exportación,Austria,ton,21,56700,623405
+2003,Abril,Exportación,Bahamas,ton,0.001,3,32
+2003,Enero,Exportación,Bélgica,ton,124.666,136478,1476586
+2003,Febrero,Exportación,Bélgica,ton,39,104325,1135296
+2003,Marzo,Exportación,Bélgica,ton,75.515,205568,2247010
+2003,Abril,Exportación,Bélgica,ton,19.38,51357,552863
+2003,Mayo,Exportación,Bélgica,ton,258.013,758086,7780424
+2003,Junio,Exportación,Bélgica,ton,307.695,870352,9213191
+2003,Julio,Exportación,Bélgica,ton,80.929,220362,2301101
+2003,Agosto,Exportación,Bélgica,ton,8.082,17780,193363
+2003,Octubre,Exportación,Bélgica,ton,22.101,55098,615907
+2003,Noviembre,Exportación,Bélgica,ton,43.842,111797,1252775
+2003,Diciembre,Exportación,Bélgica,ton,21,57750,646090
+2003,Mayo,Exportación,Canadá,ton,42,124950,1286073
+2003,Octubre,Exportación,Colombia,ton,9.9,27473,305137
+2003,Agosto,Exportación,Costa Rica,ton,0.699,2205,23573
+2003,Abril,Exportación,Cuba,ton,0.15,452,4796
+2003,Enero,Exportación,Estados Unidos,ton,205.537,499580,5262366
+2003,Febrero,Importación,Estados Unidos,ton,0.112,1402,15103
+2003,Febrero,Exportación,Estados Unidos,ton,501.176,1177124,12852742
+2003,Marzo,Exportación,Estados Unidos,ton,865.989,2198913,24052228
+2003,Abril,Exportación,Estados Unidos,ton,1931.768,5093288,54112644
+2003,Mayo,Exportación,Estados Unidos,ton,945.61,2509555,25707379
+2003,Junio,Exportación,Estados Unidos,ton,607.461,1492253,15585562
+2003,Julio,Exportación,Estados Unidos,ton,491.862,1338880,13970057
+2003,Agosto,Exportación,Estados Unidos,ton,163.077,418759,4536412
+2003,Septiembre,Exportación,Estados Unidos,ton,415.855,1041751,11360290
+2003,Octubre,Exportación,Estados Unidos,ton,794.114,2052935,22983506
+2003,Noviembre,Exportación,Estados Unidos,ton,400.06,1017214,11350114
+2003,Diciembre,Exportación,Estados Unidos,ton,292.548,731257,8219968
+2003,Julio,Exportación,Filipinas,ton,19.175,51811,539285
+2003,Noviembre,Exportación,Filipinas,ton,19.72,58963,652025
+2003,Febrero,Exportación,Francia,ton,0.25,677,7470
+2003,Mayo,Exportación,Honduras,ton,3,7500,76275
+2003,Diciembre,Exportación,Honduras,ton,0.144,438,4915
+2003,Julio,Exportación,Islas Vírgenes (Reino Unido),ton,63,182700,1922058
+2003,Agosto,Exportación,Islas Vírgenes (Reino Unido),ton,63,179550,1952661
+2003,Mayo,Exportación,Italia,ton,42.284,118396,1206724
+2003,Junio,Exportación,Italia,ton,13.666,34166,360820
+2003,Agosto,Exportación,Italia,ton,19.562,56730,600566
+2003,Diciembre,Importación,Italia,ton,0.4,1213,13802
+2003,Abril,Exportación,Japón,ton,37.68,128232,1360567
+2003,Mayo,Exportación,Japón,ton,72,254664,2635106
+2003,Junio,Exportación,Japón,ton,57.46,182477,1926275
+2003,Agosto,Exportación,Japón,ton,39,159900,1715295
+2003,Diciembre,Exportación,Japón,ton,18,57600,643018
+2003,Marzo,Exportación,Países Bajos,ton,21,63000,678327
+2003,Mayo,Exportación,Países Bajos,ton,21,63000,648440
+2003,Junio,Exportación,Países Bajos,ton,21.406,58867,618186
+2003,Octubre,Exportación,Países no Identificados,ton,0.2,528,5882
+2003,Diciembre,Exportación,Países no Identificados,ton,0.118,434,4881
+2003,Marzo,Exportación,Reino Unido,ton,122.706,324109,3520698
+2003,Abril,Exportación,Reino Unido,ton,166.803,426633,4533780
+2003,Mayo,Exportación,Reino Unido,ton,105.669,283681,2910490
+2003,Junio,Exportación,Reino Unido,ton,656.023,1782894,18655471
+2003,Julio,Exportación,Reino Unido,ton,380.663,1054496,11011547
+2003,Agosto,Exportación,Reino Unido,ton,189.787,537903,5770181
+2003,Septiembre,Exportación,Reino Unido,ton,107.711,282543,3088759
+2003,Octubre,Exportación,Reino Unido,ton,21,56700,637059
+2003,Noviembre,Exportación,Reino Unido,ton,45.728,116607,1282126
+2003,Diciembre,Exportación,Reino Unido,ton,110.546,280078,3165227
+2003,Enero,Exportación,Suiza,ton,21,50925,527649
+2003,Febrero,Exportación,Suiza,ton,74.621,204302,2233576
+2003,Marzo,Exportación,Suiza,ton,61.007,166375,1801677
+2003,Mayo,Exportación,Suiza,ton,256.162,737183,7523683
+2003,Junio,Exportación,Suiza,ton,102,316200,3344606
+2003,Julio,Exportación,Suiza,ton,262.826,771634,8045559
+2003,Octubre,Importación,Suiza,ton,1.018,9340,100047
+2003,Octubre,Exportación,Suiza,ton,42.159,124419,1390805
+2003,Noviembre,Exportación,Suiza,ton,113.717,321149,3613643
+2003,Diciembre,Exportación,Suiza,ton,36.616,107711,1211393
+2003,Diciembre,Exportación,Venezuela,ton,0.108,296,3327
+2004,Enero,Exportación,Alemania,ton,890.116,2419293,26406126
+2004,Febrero,Exportación,Alemania,ton,891.224,2397083,26400141
+2004,Marzo,Exportación,Alemania,ton,1880.543,5032693,55360251
+2004,Abril,Exportación,Alemania,ton,1595.375,4069164,45828137
+2004,Mayo,Importación,Alemania,ton,0.005,18,203
+2004,Mayo,Exportación,Alemania,ton,2030.111,5210696,60128726
+2004,Junio,Exportación,Alemania,ton,1635.133,3874666,44141894
+2004,Julio,Exportación,Alemania,ton,1143.456,2613884,30020561
+2004,Agosto,Exportación,Alemania,ton,361.328,731013,8330938
+2004,Septiembre,Exportación,Alemania,ton,165.567,323623,3726992
+2004,Octubre,Exportación,Alemania,ton,20.4,49980,575660
+2004,Noviembre,Exportación,Alemania,ton,153.164,279742,3193752
+2004,Diciembre,Exportación,Alemania,ton,734.043,1304928,14643396
+2004,Enero,Exportación,Arabia Saudita,ton,57.6,147456,1595179
+2004,Marzo,Exportación,Arabia Saudita,ton,255.993,688092,7547340
+2004,Abril,Exportación,Arabia Saudita,ton,307.148,888087,9996983
+2004,Mayo,Exportación,Arabia Saudita,ton,259.924,686856,7928921
+2004,Junio,Exportación,Arabia Saudita,ton,283.022,726311,8259662
+2004,Julio,Exportación,Arabia Saudita,ton,121.328,313796,3603936
+2004,Agosto,Exportación,Arabia Saudita,ton,105.334,264477,3022509
+2004,Septiembre,Exportación,Arabia Saudita,ton,23.616,57172,658581
+2004,Diciembre,Exportación,Arabia Saudita,ton,18.88,33984,378922
+2004,Septiembre,Importación,Argentina,ton,0.605,4230,48346
+2004,Enero,Exportación,Bélgica,ton,128.317,368527,4017641
+2004,Febrero,Exportación,Bélgica,ton,21,61950,689534
+2004,Marzo,Exportación,Bélgica,ton,260.348,696851,7680457
+2004,Abril,Exportación,Bélgica,ton,85.568,231448,2588085
+2004,Mayo,Exportación,Bélgica,ton,215.956,570286,6570548
+2004,Junio,Exportación,Bélgica,ton,285.455,728062,8291466
+2004,Julio,Exportación,Bélgica,ton,22.923,60193,693772
+2004,Septiembre,Exportación,Bélgica,ton,41.057,114972,1324579
+2004,Octubre,Exportación,Bélgica,ton,23.4,41872,472588
+2004,Diciembre,Exportación,Bélgica,ton,194.284,338090,3795383
+2004,Marzo,Importación,Brasil,ton,0.5,2841,31164
+2004,Agosto,Importación,Brasil,ton,0.5,3117,35437
+2004,Octubre,Importación,Brasil,ton,0.9,6631,75824
+2004,Noviembre,Importación,Brasil,ton,0.6,3875,44221
+2004,Mayo,Exportación,Costa Rica,ton,0.009,215,2488
+2004,Agosto,Exportación,Costa Rica,ton,18.6,29202,333265
+2004,Septiembre,Exportación,Costa Rica,ton,0.01,90,1033
+2004,Octubre,Exportación,Cuba,ton,0.128,359,4064
+2004,Septiembre,Exportación,Dinamarca,ton,0,2,23
+2004,Noviembre,Exportación,El Salvador,ton,0.136,341,3869
+2004,Marzo,Exportación,España,ton,64.8,179820,1966655
+2004,Junio,Exportación,España,ton,87.337,216023,2463900
+2004,Julio,Exportación,España,ton,0.02,16,184
+2004,Diciembre,Exportación,España,ton,4.274,17416,193689
+2004,Enero,Exportación,Estados Unidos,ton,217.729,578945,6313793
+2004,Febrero,Exportación,Estados Unidos,ton,235.79,616625,6785108
+2004,Marzo,Exportación,Estados Unidos,ton,73.666,216858,2381643
+2004,Abril,Importación,Estados Unidos,ton,0.071,1021,11204
+2004,Abril,Exportación,Estados Unidos,ton,138.422,367567,4139585
+2004,Mayo,Exportación,Estados Unidos,ton,290.859,714797,8224901
+2004,Junio,Exportación,Estados Unidos,ton,820.831,1873695,21271530
+2004,Julio,Exportación,Estados Unidos,ton,276.688,551667,6325677
+2004,Agosto,Importación,Estados Unidos,ton,5.38,9700,110630
+2004,Agosto,Exportación,Estados Unidos,ton,110.879,196175,2236987
+2004,Septiembre,Exportación,Estados Unidos,ton,78.779,133252,1528478
+2004,Octubre,Exportación,Estados Unidos,ton,555.929,973881,11137293
+2004,Noviembre,Exportación,Estados Unidos,ton,646.964,1178329,13422831
+2004,Diciembre,Exportación,Estados Unidos,ton,226.157,397302,4467090
+2004,Abril,Exportación,Filipinas,ton,21.386,57355,641315
+2004,Octubre,Exportación,Filipinas,ton,22.33,58166,660320
+2004,Abril,Exportación,Francia,ton,0.002,2,23
+2004,Septiembre,Exportación,Francia,ton,3,8640,99601
+2004,Noviembre,Exportación,Francia,ton,0,1,11
+2004,Febrero,Exportación,Honduras,ton,0.054,164,1795
+2004,Marzo,Exportación,Honduras,ton,0.252,1423,15631
+2004,Agosto,Exportación,Honduras,ton,0.09,274,3109
+2004,Septiembre,Exportación,Honduras,ton,0.108,329,3744
+2004,Octubre,Exportación,Honduras,ton,0.204,636,7324
+2004,Diciembre,Exportación,Honduras,ton,0.144,438,4938
+2004,Enero,Exportación,Hong Kong,ton,2.4,6192,67815
+2004,Abril,Exportación,Hong Kong,ton,6,15600,174881
+2004,Abril,Exportación,Italia,ton,21.197,61471,695292
+2004,Mayo,Exportación,Italia,ton,43.264,121263,1399794
+2004,Junio,Exportación,Italia,ton,56.094,162673,1842810
+2004,Febrero,Exportación,Japón,ton,0.018,57,630
+2004,Marzo,Exportación,Japón,ton,0.082,72,795
+2004,Mayo,Exportación,Japón,ton,20.288,58429,666704
+2004,Junio,Exportación,Japón,ton,58.155,177615,2022436
+2004,Julio,Exportación,Japón,ton,0.004,30,343
+2004,Agosto,Exportación,Japón,ton,20.1,52530,599094
+2004,Septiembre,Exportación,Japón,ton,36.672,106956,1226706
+2004,Marzo,Exportación,Países Bajos,ton,40.778,108469,1199429
+2004,Abril,Exportación,Países Bajos,ton,43.2,112104,1265441
+2004,Junio,Exportación,Países Bajos,ton,152.407,401285,4571757
+2004,Agosto,Exportación,Países Bajos,ton,64.8,131760,1503540
+2004,Diciembre,Exportación,Países Bajos,ton,21.6,25920,291349
+2004,Febrero,Exportación,Países no Identificados,ton,0.176,681,7500
+2004,Abril,Exportación,Países no Identificados,ton,0.185,301,3387
+2004,Junio,Exportación,Países no Identificados,ton,0.218,930,10576
+2004,Septiembre,Exportación,Países no Identificados,ton,0.029,152,1762
+2004,Octubre,Exportación,Países no Identificados,ton,0.024,88,990
+2004,Noviembre,Exportación,Países no Identificados,ton,0.096,340,3874
+2004,Diciembre,Exportación,Países no Identificados,ton,0.57,215,2422
+2004,Junio,Exportación,Perú,ton,0.04,184,2104
+2004,Enero,Exportación,Reino Unido,ton,146.1,373122,4086470
+2004,Febrero,Exportación,Reino Unido,ton,63,153300,1671859
+2004,Marzo,Exportación,Reino Unido,ton,481.515,1225454,13501216
+2004,Abril,Exportación,Reino Unido,ton,271.591,716745,8089715
+2004,Mayo,Exportación,Reino Unido,ton,724.827,1900946,21864524
+2004,Junio,Exportación,Reino Unido,ton,641.89,1563371,17757372
+2004,Julio,Exportación,Reino Unido,ton,542.841,1399424,16073476
+2004,Agosto,Exportación,Reino Unido,ton,249.808,622496,7102253
+2004,Septiembre,Exportación,Reino Unido,ton,166.86,324674,3723701
+2004,Octubre,Exportación,Reino Unido,ton,42,97440,1106733
+2004,Noviembre,Exportación,Reino Unido,ton,22.535,38310,434615
+2004,Diciembre,Exportación,Reino Unido,ton,173.157,295842,3333351
+2004,Enero,Exportación,Suiza,ton,85.2,219240,2378184
+2004,Febrero,Exportación,Suiza,ton,40.12,115345,1265847
+2004,Marzo,Exportación,Suiza,ton,41.631,112604,1240122
+2004,Abril,Exportación,Suiza,ton,172.932,467554,5283333
+2004,Mayo,Exportación,Suiza,ton,107.575,280032,3197669
+2004,Junio,Exportación,Suiza,ton,434.821,1650414,18794173
+2004,Julio,Exportación,Suiza,ton,22.32,55845,640894
+2004,Agosto,Exportación,Suiza,ton,43.8,107488,1225277
+2004,Septiembre,Exportación,Suiza,ton,45.242,106614,1224973
+2004,Diciembre,Exportación,Suiza,ton,98.725,179718,2025805
+2004,Agosto,Exportación,Venezuela,ton,20,56600,645534
+2004,Octubre,Exportación,Venezuela,ton,20.06,56770,642347
+2004,Diciembre,Exportación,Venezuela,ton,20.06,48565,540106
+2005,Enero,Exportación,Alemania,ton,568.355,972036,10895565
+2005,Febrero,Exportación,Alemania,ton,959.842,1549694,17259214
+2005,Marzo,Exportación,Alemania,ton,622.254,994396,11060395
+2005,Abril,Exportación,Alemania,ton,780.31,1331417,14806520
+2005,Mayo,Exportación,Alemania,ton,1701.243,2778801,30480249
+2005,Junio,Exportación,Alemania,ton,1475.159,2477311,26824277
+2005,Julio,Exportación,Alemania,ton,1189.826,1984196,21226125
+2005,Agosto,Exportación,Alemania,ton,605.121,1007070,10714250
+2005,Septiembre,Exportación,Alemania,ton,105.958,169920,1837163
+2005,Octubre,Exportación,Alemania,ton,128.731,236792,2568543
+2005,Noviembre,Exportación,Alemania,ton,945.072,1835303,19642705
+2005,Diciembre,Exportación,Alemania,ton,537.275,1077493,11453644
+2006,Enero,Exportación,Alemania,ton,327.047,663598,7046253
+2006,Febrero,Exportación,Alemania,ton,379.691,674810,7066650
+2006,Marzo,Exportación,Alemania,ton,1331.161,2443222,26103361
+2006,Abril,Exportación,Alemania,ton,1291.96,2532427,27853544
+2006,Mayo,Exportación,Alemania,ton,2396.508,4635829,51383971
+2006,Junio,Exportación,Alemania,ton,1790.152,3441213,39162989
+2006,Julio,Exportación,Alemania,ton,1540.483,2868896,31658266
+2006,Agosto,Exportación,Alemania,ton,1037.235,1881158,20479082
+2006,Septiembre,Exportación,Alemania,ton,297.656,520842,5726151
+2006,Octubre,Exportación,Alemania,ton,469.674,876731,9591470
+2006,Noviembre,Exportación,Alemania,ton,1141.376,2240227,24369367
+2006,Diciembre,Exportación,Alemania,ton,972.795,1839223,19974802
+2007,Enero,Exportación,Alemania,ton,553.441,1021767,11206699
+2007,Febrero,Exportación,Alemania,ton,552.076,944561,10373781
+2007,Marzo,Exportación,Alemania,ton,1649.375,2732356,30357193
+2007,Abril,Exportación,Alemania,ton,1792.086,3043174,33441448
+2007,Mayo,Exportación,Alemania,ton,2292.482,4044187,43854931
+2007,Junio,Exportación,Alemania,ton,3154.452,5630808,61003462
+2007,Julio,Exportación,Alemania,ton,1809.314,3326323,35858979
+2007,Agosto,Exportación,Alemania,ton,1470.079,2716640,29985255
+2007,Septiembre,Exportación,Alemania,ton,466.909,844468,9302232
+2007,Octubre,Exportación,Alemania,ton,248.876,473134,5140013
+2007,Noviembre,Exportación,Alemania,ton,1611.894,3481650,37856840
+2007,Diciembre,Exportación,Alemania,ton,1205.809,3087212,33511341
+2008,Enero,Exportación,Alemania,ton,624.739,1477915,16107718
+2008,Febrero,Exportación,Alemania,ton,739.657,1813584,19541619
+2008,Marzo,Exportación,Alemania,ton,1471.826,3732196,40070128
+2008,Abril,Exportación,Alemania,ton,2986.99,8231874,86756368
+2008,Mayo,Exportación,Alemania,ton,3410.638,9966549,104084247
+2008,Junio,Exportación,Alemania,ton,3046.039,9097412,93988580
+2008,Julio,Exportación,Alemania,ton,1133.464,3353438,34441856
+2008,Agosto,Exportación,Alemania,ton,685.363,2038471,20494538
+2008,Septiembre,Exportación,Alemania,ton,345.398,1028822,10871041
+2008,Octubre,Exportación,Alemania,ton,334.227,1036776,13107103
+2008,Noviembre,Exportación,Alemania,ton,901.799,2859938,37275143
+2008,Diciembre,Exportación,Alemania,ton,1147.172,3363385,45131217
+2009,Enero,Exportación,Alemania,ton,1002.917,2958515,41307305
+2009,Febrero,Exportación,Alemania,ton,862.595,2473892,36109129
+2009,Marzo,Exportación,Alemania,ton,812.506,2322599,34328547
+2009,Abril,Exportación,Alemania,ton,1102.292,3194748,43390483
+2009,Mayo,Exportación,Alemania,ton,2155.581,6676465,87850874
+2009,Junio,Exportación,Alemania,ton,2448.568,7627003,101538971
+2009,Julio,Exportación,Alemania,ton,2019.867,5890829,79083679
+2009,Agosto,Exportación,Alemania,ton,1322.274,3909279,50753288
+2009,Septiembre,Exportación,Alemania,ton,1035.216,3012274,40482115
+2009,Octubre,Exportación,Alemania,ton,639.551,2017926,26689432
+2009,Noviembre,Exportación,Alemania,ton,942.616,2938433,38578995
+2009,Diciembre,Exportación,Alemania,ton,2173.359,6913166,88645131
+2005,Febrero,Exportación,Arabia Saudita,ton,38.4,100224,1109800
+2005,Mayo,Exportación,Arabia Saudita,ton,191.666,321611,3544243
+2005,Junio,Exportación,Arabia Saudita,ton,255.07,396840,4288517
+2005,Julio,Exportación,Arabia Saudita,ton,110.808,174549,1871186
+2005,Agosto,Exportación,Arabia Saudita,ton,391.765,698987,7436522
+2005,Septiembre,Exportación,Arabia Saudita,ton,254.487,458639,4934328
+2005,Octubre,Exportación,Arabia Saudita,ton,203.484,366554,3986317
+2006,Enero,Exportación,Arabia Saudita,ton,38.4,87552,937761
+2006,Febrero,Exportación,Arabia Saudita,ton,335.012,666438,6978096
+2006,Marzo,Exportación,Arabia Saudita,ton,285.896,559053,5993865
+2006,Abril,Exportación,Arabia Saudita,ton,335.413,660555,7286989
+2006,Mayo,Exportación,Arabia Saudita,ton,320.642,655198,7263585
+2006,Junio,Exportación,Arabia Saudita,ton,615.031,1247932,14181766
+2006,Julio,Exportación,Arabia Saudita,ton,356.727,690565,7586476
+2006,Agosto,Exportación,Arabia Saudita,ton,338.226,675557,7330367
+2006,Septiembre,Exportación,Arabia Saudita,ton,210.342,409366,4479906
+2006,Octubre,Exportación,Arabia Saudita,ton,132.16,260544,2859978
+2006,Noviembre,Exportación,Arabia Saudita,ton,56.64,109032,1184436
+2007,Marzo,Exportación,Arabia Saudita,ton,94.4,173696,1941261
+2007,Abril,Exportación,Arabia Saudita,ton,479,880787,9663116
+2007,Mayo,Exportación,Arabia Saudita,ton,174.82,321228,3476520
+2007,Junio,Exportación,Arabia Saudita,ton,162.979,316858,3501053
+2007,Julio,Exportación,Arabia Saudita,ton,311.076,595553,6406995
+2007,Agosto,Exportación,Arabia Saudita,ton,253.104,485951,5351579
+2007,Septiembre,Exportación,Arabia Saudita,ton,171.92,329847,3641873
+2007,Octubre,Exportación,Arabia Saudita,ton,94.4,180871,1956928
+2008,Enero,Exportación,Arabia Saudita,ton,18.88,42480,465666
+2008,Febrero,Exportación,Arabia Saudita,ton,260.687,542447,5845091
+2008,Marzo,Exportación,Arabia Saudita,ton,493.253,1294628,13897359
+2008,Abril,Exportación,Arabia Saudita,ton,410.24,1118686,11791524
+2008,Mayo,Exportación,Arabia Saudita,ton,580.518,1731184,18089024
+2008,Junio,Exportación,Arabia Saudita,ton,432.906,1317659,13662635
+2008,Julio,Exportación,Arabia Saudita,ton,307.271,909964,9334951
+2008,Agosto,Exportación,Arabia Saudita,ton,136.789,412236,4182458
+2008,Octubre,Exportación,Arabia Saudita,ton,18.88,59850,725358
+2008,Diciembre,Exportación,Arabia Saudita,ton,18.88,59850,799225
+2009,Enero,Exportación,Arabia Saudita,ton,74.32,206238,2874586
+2009,Marzo,Exportación,Arabia Saudita,ton,19.2,55680,797360
+2009,Abril,Exportación,Arabia Saudita,ton,242.82,719029,9680485
+2009,Mayo,Exportación,Arabia Saudita,ton,800.97,2549437,33518302
+2009,Junio,Exportación,Arabia Saudita,ton,336.251,1086791,14418167
+2009,Julio,Exportación,Arabia Saudita,ton,220.01,710929,9423812
+2009,Agosto,Exportación,Arabia Saudita,ton,57.344,161997,2098399
+2009,Septiembre,Exportación,Arabia Saudita,ton,18.88,53336,717807
+2009,Diciembre,Exportación,Arabia Saudita,ton,18.88,64475,816627
+2005,Enero,Exportación,Bélgica,ton,22.716,39185,439691
+2005,Abril,Exportación,Bélgica,ton,42.824,70439,779601
+2005,Mayo,Exportación,Bélgica,ton,61.897,137273,1508810
+2005,Junio,Exportación,Bélgica,ton,131.129,224569,2434953
+2005,Julio,Exportación,Bélgica,ton,133.807,255678,2738433
+2005,Agosto,Exportación,Bélgica,ton,84.625,135973,1441555
+2005,Septiembre,Exportación,Bélgica,ton,40.686,79338,848869
+2005,Noviembre,Exportación,Bélgica,ton,162.93,326850,3486072
+2006,Febrero,Exportación,Bélgica,ton,108.104,204590,2135752
+2006,Marzo,Exportación,Bélgica,ton,104.2,174399,1860863
+2006,Abril,Exportación,Bélgica,ton,21.003,40956,456426
+2006,Mayo,Exportación,Bélgica,ton,108.833,225895,2536556
+2006,Junio,Exportación,Bélgica,ton,129.837,266321,3039803
+2006,Julio,Exportación,Bélgica,ton,46.44,87004,975596
+2006,Agosto,Exportación,Bélgica,ton,100.08,221888,2419685
+2006,Octubre,Exportación,Bélgica,ton,47.232,85042,942623
+2006,Noviembre,Exportación,Bélgica,ton,21.08,38998,423643
+2006,Diciembre,Exportación,Bélgica,ton,168.686,340018,3669543
+2007,Enero,Exportación,Bélgica,ton,20.608,52552,576207
+2007,Marzo,Exportación,Bélgica,ton,262.462,451589,5033192
+2007,Abril,Exportación,Bélgica,ton,324.342,536451,5898981
+2007,Mayo,Exportación,Bélgica,ton,42,80430,869217
+2007,Junio,Exportación,Bélgica,ton,20.573,52461,563924
+2007,Julio,Exportación,Bélgica,ton,64.969,152070,1644020
+2007,Agosto,Exportación,Bélgica,ton,58.492,130582,1432002
+2007,Septiembre,Exportación,Bélgica,ton,20.06,39618,434558
+2007,Noviembre,Exportación,Bélgica,ton,20.797,53028,576987
+2007,Diciembre,Exportación,Bélgica,ton,22.661,49741,542470
+2008,Enero,Exportación,Bélgica,ton,62.072,150520,1646753
+2008,Febrero,Exportación,Bélgica,ton,61.12,148638,1599848
+2008,Marzo,Exportación,Bélgica,ton,21,52500,561960
+2008,Abril,Exportación,Bélgica,ton,205.3,556165,5856844
+2008,Mayo,Exportación,Bélgica,ton,228.72,671924,7011890
+2008,Junio,Exportación,Bélgica,ton,145.154,431707,4470068
+2008,Julio,Exportación,Bélgica,ton,164.241,471813,4817103
+2008,Agosto,Exportación,Bélgica,ton,123.151,363353,3636004
+2008,Septiembre,Exportación,Bélgica,ton,102.779,312105,3301323
+2008,Noviembre,Exportación,Bélgica,ton,110.303,339913,4422366
+2008,Diciembre,Exportación,Bélgica,ton,143.352,454627,6125096
+2009,Abril,Exportación,Bélgica,ton,64.555,165050,2205065
+2009,Mayo,Exportación,Bélgica,ton,21.6,67392,890976
+2009,Junio,Exportación,Bélgica,ton,104.982,301506,4023562
+2009,Julio,Exportación,Bélgica,ton,416.487,1220630,16267219
+2009,Agosto,Exportación,Bélgica,ton,95.636,274114,3560885
+2009,Septiembre,Exportación,Bélgica,ton,21.303,63908,860572
+2009,Noviembre,Exportación,Bélgica,ton,19.992,54979,719648
+2009,Diciembre,Exportación,Bélgica,ton,88.327,277790,3515655
+2005,Enero,Exportación,Belice,ton,0.003,12,135
+2007,Noviembre,Exportación,Belice,ton,0.02,36,395
+2008,Marzo,Exportación,Belice,ton,0.02,78,846
+2008,Junio,Exportación,Belice,ton,0.02,81,837
+2007,Agosto,Exportación,Bolivia,ton,0.36,1315,14631
+2005,Marzo,Importación,Brasil,ton,2.4,14729,163561
+2006,Agosto,Importación,Brasil,ton,0.25,2297,25063
+2006,Septiembre,Importación,Brasil,ton,0.225,2218,24225
+2006,Octubre,Importación,Brasil,ton,0.5,3632,40019
+2006,Diciembre,Importación,Brasil,ton,0.5,3632,39451
+2007,Abril,Importación,Brasil,ton,0.5,3632,40648
+2007,Junio,Importación,Brasil,ton,0.5,3632,39237
+2008,Abril,Importación,Brasil,ton,1,6342,66482
+2008,Octubre,Importación,Brasil,ton,0.5,3556,36124
+2009,Julio,Importación,Brasil,ton,0.5,3648,48587
+2007,Julio,Exportación,Bulgaria,ton,63.72,115121,1239024
+2007,Marzo,Exportación,Canadá,ton,0.021,31,342
+2007,Junio,Exportación,Canadá,ton,0.155,740,8005
+2009,Marzo,Exportación,Canadá,ton,0.065,29,433
+2009,Agosto,Exportación,Chile,ton,0.06,39,507
+2005,Febrero,Exportación,China,ton,4.64,10672,119028
+2006,Abril,Exportación,China,ton,0.006,3,33
+2007,Abril,Exportación,China,ton,0.032,50,550
+2007,Diciembre,Exportación,China,ton,0.2,1366,14756
+2008,Enero,Exportación,China,ton,20.033,49181,538325
+2008,Abril,Exportación,China,ton,20.65,57407,605041
+2008,Mayo,Exportación,China,ton,20.59,63623,668646
+2008,Junio,Exportación,China,ton,40,123600,1273896
+2008,Diciembre,Exportación,China,ton,19.994,61781,822392
+2009,Febrero,Exportación,China,ton,19.995,61785,897816
+2009,Marzo,Exportación,China,ton,25.81,82114,1210944
+2009,Abril,Exportación,China,ton,20.01,63832,839761
+2009,Junio,Exportación,China,ton,20.3,64757,867724
+2009,Agosto,Exportación,China,ton,20.3,64757,841362
+2009,Octubre,Exportación,China,ton,40.6,129514,1709921
+2008,Marzo,Exportación,Colombia,ton,0.4,1240,13348
+2008,Abril,Exportación,Colombia,ton,1,3100,33009
+2009,Julio,Exportación,Corea del Sur,ton,0.112,291,4005
+2005,Enero,Exportación,Costa Rica,ton,18.6,28272,318433
+2005,Mayo,Exportación,Costa Rica,ton,6.06,6680,73290
+2005,Octubre,Exportación,Costa Rica,ton,0.01,25,271
+2006,Mayo,Exportación,Costa Rica,ton,0.024,2,22
+2006,Julio,Exportación,Costa Rica,ton,0.005,5,56
+2006,Octubre,Exportación,Costa Rica,ton,0.02,12,133
+2007,Febrero,Exportación,Costa Rica,ton,0.006,12,132
+2006,Mayo,Exportación,Cuba,ton,0.018,156,1737
+2008,Diciembre,Exportación,Cuba,ton,0.006,3,40
+2005,Febrero,Exportación,El Salvador,ton,0.499,1248,13942
+2005,Marzo,Exportación,El Salvador,ton,1.6,4000,44130
+2005,Junio,Exportación,El Salvador,ton,1.6,4000,43333
+2005,Julio,Exportación,El Salvador,ton,0.312,1404,15120
+2005,Mayo,Exportación,España,ton,64.282,123190,1349417
+2005,Junio,Exportación,España,ton,21.325,41688,448761
+2005,Octubre,Exportación,España,ton,0.004,9,97
+2005,Diciembre,Exportación,España,ton,0.04,98,1056
+2006,Febrero,Exportación,España,ton,0.013,73,768
+2006,Mayo,Exportación,España,ton,43.8,93294,1011130
+2007,Junio,Exportación,España,ton,21.09,37540,409231
+2008,Febrero,Exportación,España,ton,0.04,323,3467
+2008,Marzo,Exportación,España,ton,46.653,114667,1235843
+2008,Abril,Exportación,España,ton,72.008,219615,2297393
+2008,Mayo,Exportación,España,ton,72,208080,2159704
+2008,Junio,Exportación,España,ton,20.4,60180,619463
+2008,Agosto,Exportación,España,ton,20.1,59295,603208
+2009,Marzo,Exportación,España,ton,0.052,172,2592
+2009,Julio,Exportación,España,ton,23.2,76560,1040221
+2009,Agosto,Exportación,España,ton,86.6,264004,3437326
+2005,Enero,Exportación,Estados Unidos,ton,72.561,99273,1119864
+2005,Febrero,Exportación,Estados Unidos,ton,107.162,159537,1774616
+2005,Marzo,Exportación,Estados Unidos,ton,91.011,145465,1617960
+2005,Abril,Exportación,Estados Unidos,ton,211.942,343304,3802287
+2005,Mayo,Exportación,Estados Unidos,ton,321.753,568773,6267569
+2005,Junio,Importación,Estados Unidos,ton,0.011,137,1485
+2005,Junio,Exportación,Estados Unidos,ton,126.065,229090,2477258
+2005,Julio,Exportación,Estados Unidos,ton,37.473,53334,575131
+2005,Agosto,Exportación,Estados Unidos,ton,100.323,154501,1640603
+2005,Septiembre,Exportación,Estados Unidos,ton,126.551,177611,1916677
+2005,Octubre,Exportación,Estados Unidos,ton,129.947,192685,2095703
+2005,Noviembre,Exportación,Estados Unidos,ton,0.732,2453,26116
+2005,Diciembre,Exportación,Estados Unidos,ton,53.72,95881,1012953
+2006,Enero,Exportación,Estados Unidos,ton,43.652,82235,869928
+2006,Febrero,Exportación,Estados Unidos,ton,62.846,116750,1225232
+2006,Marzo,Exportación,Estados Unidos,ton,56.667,114636,1216744
+2006,Abril,Exportación,Estados Unidos,ton,112.419,213941,2356306
+2006,Mayo,Exportación,Estados Unidos,ton,400.33,788407,8785287
+2006,Junio,Exportación,Estados Unidos,ton,274.446,546668,6204857
+2006,Julio,Exportación,Estados Unidos,ton,166.53,227975,2510629
+2006,Agosto,Importación,Estados Unidos,ton,0.084,365,3987
+2006,Agosto,Exportación,Estados Unidos,ton,265.981,444938,4830872
+2006,Septiembre,Exportación,Estados Unidos,ton,423.317,724653,7952495
+2006,Octubre,Exportación,Estados Unidos,ton,283.11,509914,5597255
+2006,Noviembre,Importación,Estados Unidos,ton,0.084,367,3988
+2006,Noviembre,Exportación,Estados Unidos,ton,336.825,566159,6169853
+2006,Diciembre,Importación,Estados Unidos,ton,0.12,525,5702
+2006,Diciembre,Exportación,Estados Unidos,ton,208.431,363542,3943505
+2007,Enero,Importación,Estados Unidos,ton,0.204,887,9689
+2007,Enero,Exportación,Estados Unidos,ton,149.325,279535,3061294
+2007,Febrero,Importación,Estados Unidos,ton,0.158,469,5143
+2007,Febrero,Exportación,Estados Unidos,ton,117.305,197622,2175835
+2007,Marzo,Importación,Estados Unidos,ton,0.336,1427,15963
+2007,Marzo,Exportación,Estados Unidos,ton,252.963,425001,4731285
+2007,Abril,Importación,Estados Unidos,ton,0.18,661,7266
+2007,Abril,Exportación,Estados Unidos,ton,259.438,406055,4467866
+2007,Mayo,Importación,Estados Unidos,ton,0.408,1785,19378
+2007,Mayo,Exportación,Estados Unidos,ton,756.739,1429305,15506689
+2007,Junio,Exportación,Estados Unidos,ton,437.375,805631,8739793
+2007,Julio,Exportación,Estados Unidos,ton,207.964,350487,3777998
+2007,Agosto,Importación,Estados Unidos,ton,0.144,622,6837
+2007,Agosto,Exportación,Estados Unidos,ton,363.869,535933,5900310
+2007,Septiembre,Importación,Estados Unidos,ton,0.171,736,8173
+2007,Septiembre,Exportación,Estados Unidos,ton,304.608,446771,4941320
+2007,Octubre,Importación,Estados Unidos,ton,0.108,477,5129
+2007,Octubre,Exportación,Estados Unidos,ton,214.633,352633,3823820
+2007,Noviembre,Importación,Estados Unidos,ton,0.12,521,5697
+2007,Noviembre,Exportación,Estados Unidos,ton,114.119,200457,2199305
+2007,Diciembre,Importación,Estados Unidos,ton,0.449,1985,21546
+2007,Diciembre,Exportación,Estados Unidos,ton,32.781,66431,721518
+2008,Enero,Importación,Estados Unidos,ton,0.168,736,7981
+2008,Enero,Exportación,Estados Unidos,ton,68.028,135786,1484361
+2008,Febrero,Exportación,Estados Unidos,ton,112.426,230229,2477296
+2008,Marzo,Exportación,Estados Unidos,ton,36.941,73226,785279
+2008,Abril,Importación,Estados Unidos,ton,0.601,2713,28623
+2008,Abril,Exportación,Estados Unidos,ton,315.837,777580,8170634
+2008,Mayo,Importación,Estados Unidos,ton,0.009,113,1173
+2008,Mayo,Exportación,Estados Unidos,ton,349.571,939426,9829036
+2008,Junio,Exportación,Estados Unidos,ton,231.884,649725,6708973
+2008,Julio,Exportación,Estados Unidos,ton,86.941,234382,2403498
+2008,Agosto,Exportación,Estados Unidos,ton,140.359,425400,4272011
+2008,Septiembre,Exportación,Estados Unidos,ton,37.35,97711,1049382
+2008,Octubre,Exportación,Estados Unidos,ton,77.149,149774,1847367
+2008,Noviembre,Exportación,Estados Unidos,ton,7.202,16469,212362
+2008,Diciembre,Exportación,Estados Unidos,ton,21.955,57883,787198
+2009,Enero,Exportación,Estados Unidos,ton,43.354,110718,1531942
+2009,Febrero,Importación,Estados Unidos,ton,0.004,24,349
+2009,Febrero,Exportación,Estados Unidos,ton,58.402,169954,2438807
+2009,Marzo,Exportación,Estados Unidos,ton,65.873,171963,2532417
+2009,Abril,Importación,Estados Unidos,ton,0.004,31,422
+2009,Abril,Exportación,Estados Unidos,ton,322.394,962850,12973049
+2009,Mayo,Exportación,Estados Unidos,ton,414.814,1205706,16054481
+2009,Junio,Exportación,Estados Unidos,ton,167.495,451930,6033203
+2009,Julio,Exportación,Estados Unidos,ton,79.543,219207,2926458
+2009,Agosto,Exportación,Estados Unidos,ton,31.287,64711,833113
+2009,Septiembre,Exportación,Estados Unidos,ton,114.061,272303,3656687
+2009,Octubre,Exportación,Estados Unidos,ton,109.282,308102,4077635
+2009,Noviembre,Exportación,Estados Unidos,ton,185.805,495576,6535517
+2009,Diciembre,Importación,Estados Unidos,ton,0.075,750,9740
+2009,Diciembre,Exportación,Estados Unidos,ton,54.33,147018,1890495
+2005,Marzo,Exportación,Filipinas,ton,20.3,44895,501742
+2005,Septiembre,Exportación,Filipinas,ton,20.59,45133,483284
+2008,Mayo,Exportación,Filipinas,ton,1.16,2604,27413
+2005,Febrero,Exportación,Francia,ton,21.672,38359,428182
+2005,Marzo,Exportación,Francia,ton,22.32,39506,435281
+2005,Mayo,Exportación,Francia,ton,3,8640,94421
+2006,Junio,Exportación,Francia,ton,5,12500,141067
+2006,Octubre,Exportación,Francia,ton,0.098,69,763
+2007,Abril,Importación,Francia,ton,0.6,12207,132517
+2007,Mayo,Exportación,Francia,ton,5,12500,135223
+2007,Junio,Exportación,Francia,ton,41.4,79695,868631
+2007,Julio,Importación,Francia,ton,0.048,1056,11597
+2007,Julio,Exportación,Francia,ton,21.24,50976,548706
+2007,Agosto,Exportación,Francia,ton,19.783,46319,515127
+2007,Octubre,Importación,Francia,ton,0.06,1073,11831
+2008,Mayo,Exportación,Francia,ton,42.266,131940,1382253
+2008,Agosto,Exportación,Francia,ton,9,28800,285638
+2008,Octubre,Exportación,Francia,ton,0.113,142,1800
+2009,Enero,Exportación,Francia,ton,20.06,63691,881420
+2009,Febrero,Exportación,Francia,ton,42.029,133992,1941922
+2009,Junio,Exportación,Francia,ton,20.875,79325,1049763
+2009,Julio,Exportación,Francia,ton,0,1,13
+2006,Abril,Exportación,Guatemala,ton,0.025,587,6426
+2005,Enero,Exportación,Honduras,ton,0.198,416,4696
+2005,Noviembre,Exportación,Honduras,ton,0.776,2087,22323
+2006,Abril,Exportación,Honduras,ton,0.908,3336,36341
+2006,Junio,Exportación,Honduras,ton,0.468,1634,18700
+2006,Agosto,Exportación,Honduras,ton,0.504,1537,16589
+2006,Noviembre,Exportación,Honduras,ton,0.448,1419,15612
+2006,Diciembre,Exportación,Honduras,ton,0.603,2273,24529
+2007,Mayo,Exportación,Honduras,ton,0.677,2220,24015
+2007,Octubre,Exportación,Honduras,ton,0.181,665,7269
+2007,Noviembre,Exportación,Honduras,ton,0.45,1336,14578
+2008,Abril,Exportación,Honduras,ton,0.252,1105,11663
+2008,Mayo,Exportación,Honduras,ton,0.336,1246,12959
+2008,Junio,Exportación,Honduras,ton,0.786,3034,31538
+2008,Julio,Exportación,Honduras,ton,0.288,1079,10856
+2009,Noviembre,Exportación,Honduras,ton,2.76,11333,147898
+2007,Junio,Exportación,Irlanda,ton,21.09,42180,458332
+2006,Mayo,Exportación,Islas Vírgenes (EU),ton,21.58,34744,388907
+2006,Agosto,Exportación,Islas Vírgenes (Reino Unido),ton,21.6,39960,435352
+2006,Septiembre,Exportación,Islas Vírgenes (Reino Unido),ton,21.6,39312,429861
+2005,Mayo,Exportación,Italia,ton,20.776,40513,443099
+2005,Junio,Exportación,Italia,ton,41.535,80992,879141
+2005,Julio,Exportación,Italia,ton,21.129,20875,224932
+2005,Agosto,Exportación,Italia,ton,20.588,40146,434191
+2005,Septiembre,Exportación,Italia,ton,15.396,29252,313681
+2006,Enero,Exportación,Italia,ton,0.002,10,106
+2006,Junio,Exportación,Italia,ton,33.135,72143,821197
+2006,Julio,Exportación,Italia,ton,20.057,45127,490567
+2006,Octubre,Importación,Italia,ton,0.085,3261,35935
+2006,Octubre,Exportación,Italia,ton,20.664,51660,559421
+2007,Mayo,Exportación,Italia,ton,21,30450,330422
+2007,Julio,Exportación,Italia,ton,53.143,122485,1319139
+2007,Agosto,Exportación,Italia,ton,20.82,48927,534640
+2008,Julio,Exportación,Italia,ton,20.801,56163,582365
+2009,Febrero,Exportación,Italia,ton,19.282,72308,1073976
+2009,Septiembre,Exportación,Italia,ton,10.74,35441,469873
+2005,Febrero,Exportación,Japón,ton,0.04,290,3204
+2005,Agosto,Exportación,Japón,ton,20.1,48240,511537
+2006,Julio,Exportación,Japón,ton,20.1,48240,531967
+2006,Agosto,Exportación,Japón,ton,0.617,5500,59837
+2007,Marzo,Exportación,Japón,ton,0.033,17,190
+2007,Mayo,Exportación,Japón,ton,43.62,78516,846426
+2007,Junio,Exportación,Japón,ton,59.932,142039,1552586
+2007,Julio,Exportación,Japón,ton,20.1,47235,509326
+2007,Septiembre,Exportación,Japón,ton,0.014,5,56
+2007,Octubre,Exportación,Japón,ton,0.003,3,33
+2008,Febrero,Exportación,Japón,ton,0,1,11
+2008,Junio,Exportación,Japón,ton,60.3,192960,2000127
+2008,Julio,Exportación,Japón,ton,20.546,48591,487193
+2008,Agosto,Exportación,Japón,ton,79.968,272727,2768271
+2008,Septiembre,Exportación,Japón,ton,30.3,105834,1119383
+2009,Marzo,Exportación,Japón,ton,20.543,44681,632147
+2009,Abril,Exportación,Japón,ton,72.107,198294,2606713
+2009,Junio,Exportación,Japón,ton,1.016,7922,106152
+2009,Julio,Exportación,Japón,ton,0.238,1804,23763
+2009,Agosto,Exportación,Japón,ton,60.3,214065,2815561
+2005,Julio,Exportación,Marruecos,ton,20.4,41310,443785
+2007,Agosto,Exportación,Mauritania,ton,0,13,144
+2005,Febrero,Exportación,Países Bajos,ton,20.659,44417,495396
+2005,Junio,Exportación,Países Bajos,ton,20.88,34452,374314
+2006,Mayo,Exportación,Países Bajos,ton,41.7,82094,889743
+2006,Agosto,Exportación,Países Bajos,ton,87.6,153300,1675338
+2006,Septiembre,Exportación,Países Bajos,ton,21.6,36720,398184
+2006,Octubre,Exportación,Países Bajos,ton,110.079,214654,2319625
+2007,Febrero,Exportación,Países Bajos,ton,0.519,143,1573
+2007,Junio,Exportación,Países Bajos,ton,112.2,197286,2135288
+2007,Julio,Exportación,Países Bajos,ton,104.355,183047,1971930
+2007,Agosto,Exportación,Países Bajos,ton,81.6,142800,1588122
+2008,Marzo,Exportación,Países Bajos,ton,95.2,271320,2896287
+2005,Enero,Exportación,Países no Identificados,ton,0.063,86,968
+2005,Febrero,Exportación,Países no Identificados,ton,0.18,652,7272
+2005,Marzo,Exportación,Países no Identificados,ton,0.06,217,2425
+2005,Abril,Exportación,Países no Identificados,ton,0.06,218,2420
+2005,Mayo,Exportación,Países no Identificados,ton,0.276,1018,11146
+2005,Junio,Exportación,Países no Identificados,ton,0.084,312,3394
+2005,Octubre,Exportación,Países no Identificados,ton,0.132,494,5332
+2006,Febrero,Exportación,Países no Identificados,ton,0.258,971,10177
+2006,Marzo,Exportación,Países no Identificados,ton,0.204,775,8231
+2006,Abril,Exportación,Países no Identificados,ton,0.48,1770,19376
+2006,Mayo,Exportación,Países no Identificados,ton,0.24,875,9687
+2006,Septiembre,Exportación,Países no Identificados,ton,0.735,735,8112
+2006,Octubre,Exportación,Países no Identificados,ton,0.099,1115,12293
+2006,Noviembre,Exportación,Países no Identificados,ton,0.116,590,6440
+2006,Diciembre,Exportación,Países no Identificados,ton,0.183,1279,13891
+2007,Enero,Exportación,Países no Identificados,ton,0.162,1775,19500
+2007,Febrero,Exportación,Países no Identificados,ton,0.11,333,3652
+2007,Marzo,Exportación,Países no Identificados,ton,0.213,2535,28261
+2007,Abril,Exportación,Países no Identificados,ton,0.098,1142,12577
+2007,Mayo,Exportación,Países no Identificados,ton,0.188,2274,24566
+2007,Junio,Exportación,Países no Identificados,ton,0.158,1977,21608
+2007,Julio,Exportación,Países no Identificados,ton,0.148,1842,19880
+2007,Agosto,Exportación,Países no Identificados,ton,0.139,1747,19682
+2007,Septiembre,Exportación,Países no Identificados,ton,0.154,1960,21704
+2007,Octubre,Exportación,Países no Identificados,ton,0.111,1647,17866
+2007,Noviembre,Exportación,Países no Identificados,ton,0.126,1590,17385
+2007,Diciembre,Exportación,Países no Identificados,ton,0.164,2050,22178
+2008,Enero,Exportación,Países no Identificados,ton,0.193,2429,26509
+2008,Febrero,Exportación,Países no Identificados,ton,0.171,2144,23052
+2008,Marzo,Exportación,Países no Identificados,ton,0.155,1946,21009
+2008,Abril,Exportación,Países no Identificados,ton,0.154,1945,20409
+2008,Mayo,Exportación,Países no Identificados,ton,0.274,3433,35990
+2008,Junio,Exportación,Países no Identificados,ton,0.256,3205,33418
+2008,Julio,Exportación,Países no Identificados,ton,0.158,1980,20379
+2008,Agosto,Exportación,Países no Identificados,ton,0.08,995,10108
+2008,Septiembre,Exportación,Países no Identificados,ton,0.009,147,1543
+2008,Octubre,Exportación,Países no Identificados,ton,0.001,25,326
+2008,Noviembre,Exportación,Países no Identificados,ton,0.001,43,559
+2008,Diciembre,Exportación,Países no Identificados,ton,0.011,47,635
+2009,Enero,Exportación,Países no Identificados,ton,0.002,28,384
+2009,Febrero,Exportación,Países no Identificados,ton,0.003,52,741
+2009,Marzo,Exportación,Países no Identificados,ton,0.004,85,1285
+2009,Abril,Exportación,Países no Identificados,ton,0,8,105
+2009,Mayo,Exportación,Países no Identificados,ton,0.001,33,432
+2009,Julio,Exportación,Países no Identificados,ton,0.001,8,107
+2009,Septiembre,Exportación,Países no Identificados,ton,0.001,16,213
+2009,Octubre,Exportación,Países no Identificados,ton,0.001,8,108
+2009,Noviembre,Exportación,Países no Identificados,ton,0.001,8,105
+2009,Diciembre,Exportación,Países no Identificados,ton,0.001,8,104
+2006,Julio,Exportación,Panamá,ton,12.68,12000,130745
+2008,Diciembre,Exportación,Portugal,ton,0.006,21,278
+2009,Agosto,Exportación,Portugal,ton,80.4,258888,3422268
+2005,Enero,Exportación,Reino Unido,ton,85.76,131084,1478553
+2005,Febrero,Exportación,Reino Unido,ton,104.1,155145,1725839
+2005,Marzo,Exportación,Reino Unido,ton,104.79,162359,1819359
+2005,Abril,Exportación,Reino Unido,ton,167.903,256955,2857002
+2005,Mayo,Exportación,Reino Unido,ton,560.745,916419,10079706
+2005,Junio,Exportación,Reino Unido,ton,994.149,1290814,13975793
+2005,Julio,Exportación,Reino Unido,ton,406.721,640802,6860693
+2005,Agosto,Exportación,Reino Unido,ton,180.913,277937,2948478
+2005,Septiembre,Exportación,Reino Unido,ton,62.06,96251,1028496
+2005,Octubre,Exportación,Reino Unido,ton,126.577,204444,2211122
+2005,Noviembre,Exportación,Reino Unido,ton,128.763,216653,2316150
+2005,Diciembre,Exportación,Reino Unido,ton,21,33180,354797
+2006,Enero,Exportación,Reino Unido,ton,21,33180,350819
+2006,Febrero,Exportación,Reino Unido,ton,101.98,164264,1715898
+2006,Marzo,Exportación,Reino Unido,ton,269.604,463807,4995087
+2006,Abril,Exportación,Reino Unido,ton,168.159,318760,3526731
+2006,Mayo,Exportación,Reino Unido,ton,692.92,1246635,13916672
+2006,Junio,Exportación,Reino Unido,ton,647.145,1170177,13334522
+2006,Julio,Exportación,Reino Unido,ton,714.258,1309723,14450289
+2006,Agosto,Exportación,Reino Unido,ton,455.503,781393,8507253
+2006,Septiembre,Exportación,Reino Unido,ton,63.2,106070,1160931
+2006,Octubre,Exportación,Reino Unido,ton,82.6,137949,1513756
+2006,Noviembre,Exportación,Reino Unido,ton,89.962,176590,1947108
+2006,Diciembre,Exportación,Reino Unido,ton,66.463,124002,1359003
+2007,Enero,Exportación,Reino Unido,ton,87.994,147574,1605806
+2007,Febrero,Exportación,Reino Unido,ton,189,304054,3342398
+2007,Marzo,Exportación,Reino Unido,ton,278.659,442607,4934522
+2007,Abril,Exportación,Reino Unido,ton,297.15,452686,4971556
+2007,Mayo,Exportación,Reino Unido,ton,1106.656,1882951,20368812
+2007,Junio,Exportación,Reino Unido,ton,1161.297,2028576,22041896
+2007,Julio,Exportación,Reino Unido,ton,882.439,1542731,16639125
+2007,Agosto,Exportación,Reino Unido,ton,526.624,938039,10381353
+2007,Septiembre,Exportación,Reino Unido,ton,148.735,260636,2873262
+2007,Octubre,Exportación,Reino Unido,ton,103.745,185305,2000411
+2007,Noviembre,Exportación,Reino Unido,ton,22.512,51778,566337
+2007,Diciembre,Exportación,Reino Unido,ton,87.743,188726,2042783
+2008,Enero,Exportación,Reino Unido,ton,210.353,425565,4639850
+2008,Febrero,Exportación,Reino Unido,ton,210.795,444746,4786869
+2008,Marzo,Exportación,Reino Unido,ton,484.16,1102518,11841138
+2008,Abril,Exportación,Reino Unido,ton,1052.377,2925629,30804934
+2008,Mayo,Exportación,Reino Unido,ton,449.583,1334252,13927623
+2008,Junio,Exportación,Reino Unido,ton,259.562,767509,7919780
+2008,Julio,Exportación,Reino Unido,ton,663.164,1963126,20127670
+2008,Agosto,Exportación,Reino Unido,ton,440.239,1292102,13111240
+2008,Septiembre,Exportación,Reino Unido,ton,129.281,409495,4304097
+2008,Octubre,Exportación,Reino Unido,ton,61.972,200037,2380798
+2008,Noviembre,Exportación,Reino Unido,ton,43.679,143896,1925216
+2008,Diciembre,Exportación,Reino Unido,ton,86.423,265080,3513913
+2009,Enero,Exportación,Reino Unido,ton,170.731,471763,6603467
+2009,Febrero,Exportación,Reino Unido,ton,150.566,412005,6071007
+2009,Marzo,Exportación,Reino Unido,ton,250.257,660904,9612113
+2009,Abril,Exportación,Reino Unido,ton,240.415,697646,9335656
+2009,Mayo,Exportación,Reino Unido,ton,579.253,1685778,22201562
+2009,Junio,Exportación,Reino Unido,ton,735.176,2253294,30098323
+2009,Julio,Exportación,Reino Unido,ton,342.24,1057970,14264978
+2009,Agosto,Exportación,Reino Unido,ton,214.785,620024,8058542
+2009,Septiembre,Exportación,Reino Unido,ton,379.79,1090180,14645727
+2009,Octubre,Exportación,Reino Unido,ton,211.915,598334,7913132
+2009,Diciembre,Exportación,Reino Unido,ton,153.13,464973,5959876
+2008,Mayo,Exportación,República Árabe Siria,ton,4.72,15104,158119
+2005,Enero,Exportación,Suiza,ton,127.96,214072,2416466
+2005,Febrero,Exportación,Suiza,ton,42,74970,836155
+2005,Marzo,Exportación,Suiza,ton,83.355,134598,1503784
+2005,Abril,Exportación,Suiza,ton,179.871,285027,3158362
+2005,Mayo,Exportación,Suiza,ton,371.021,606622,6662441
+2005,Junio,Exportación,Suiza,ton,868.792,1384232,15009638
+2005,Julio,Exportación,Suiza,ton,380.092,642947,6885499
+2005,Agosto,Exportación,Suiza,ton,136.215,222386,2361502
+2005,Septiembre,Exportación,Suiza,ton,19.476,31649,338138
+2005,Octubre,Exportación,Suiza,ton,0.135,486,5271
+2005,Noviembre,Exportación,Suiza,ton,20.558,43972,467643
+2005,Diciembre,Exportación,Suiza,ton,85.213,157320,1661369
+2006,Enero,Exportación,Suiza,ton,93.329,175938,1859437
+2006,Febrero,Exportación,Suiza,ton,145.82,267339,2802868
+2006,Marzo,Exportación,Suiza,ton,104.52,217617,2352009
+2006,Abril,Exportación,Suiza,ton,427.696,849762,9408533
+2006,Mayo,Exportación,Suiza,ton,472,907145,10114446
+2006,Junio,Exportación,Suiza,ton,306.528,567075,6478099
+2006,Julio,Exportación,Suiza,ton,172.764,553764,6061124
+2006,Agosto,Exportación,Suiza,ton,148.92,280203,3047993
+2006,Diciembre,Exportación,Suiza,ton,85.816,185926,2018114
+2007,Enero,Exportación,Suiza,ton,62.64,112752,1237487
+2007,Febrero,Exportación,Suiza,ton,142.83,267969,2947651
+2007,Marzo,Exportación,Suiza,ton,188.98,310450,3470477
+2007,Abril,Exportación,Suiza,ton,511.316,896464,9847368
+2007,Mayo,Exportación,Suiza,ton,313.332,547406,5916250
+2007,Junio,Exportación,Suiza,ton,849.691,1521466,16500579
+2007,Julio,Exportación,Suiza,ton,273.72,495984,5353678
+2007,Agosto,Exportación,Suiza,ton,42.108,76346,835241
+2007,Noviembre,Exportación,Suiza,ton,88.576,201719,2209761
+2007,Diciembre,Exportación,Suiza,ton,41.76,66816,724038
+2008,Enero,Exportación,Suiza,ton,85.647,174339,1896441
+2008,Febrero,Exportación,Suiza,ton,194.7,455999,4921535
+2008,Marzo,Exportación,Suiza,ton,305.853,881088,9432658
+2008,Abril,Exportación,Suiza,ton,298.891,882883,9263390
+2008,Mayo,Exportación,Suiza,ton,230.887,620060,6454594
+2008,Junio,Exportación,Suiza,ton,750.694,2225311,22984345
+2008,Julio,Exportación,Suiza,ton,427.512,1295170,13343204
+2008,Noviembre,Exportación,Suiza,ton,118.704,405600,5246116
+2009,Enero,Exportación,Suiza,ton,67.4,184190,2589818
+2009,Febrero,Exportación,Suiza,ton,136.025,388119,5579589
+2009,Marzo,Exportación,Suiza,ton,250.739,714180,10392348
+2009,Abril,Exportación,Suiza,ton,301.6,960480,13043416
+2009,Mayo,Exportación,Suiza,ton,477.564,1512044,20034115
+2009,Junio,Exportación,Suiza,ton,684.076,2196624,29243036
+2009,Julio,Exportación,Suiza,ton,45.023,140622,1863746
+2009,Diciembre,Exportación,Suiza,ton,100.334,322226,4128392
+2005,Enero,Exportación,Venezuela,ton,86.04,152996,1717206
+2005,Marzo,Exportación,Venezuela,ton,86.4,146880,1649110
+2005,Mayo,Exportación,Venezuela,ton,20.06,49769,547867
+2005,Agosto,Exportación,Venezuela,ton,40.12,99538,1067715
+2006,Enero,Exportación,Venezuela,ton,20.06,48565,512098
+2006,Marzo,Exportación,Venezuela,ton,40.12,93480,1001115
+2006,Junio,Exportación,Venezuela,ton,64.8,123120,1404959
+2006,Julio,Exportación,Venezuela,ton,20.06,46740,509676
+2006,Agosto,Exportación,Venezuela,ton,20.06,46740,509994
+2007,Febrero,Exportación,Venezuela,ton,20.06,45135,495054
+2007,Abril,Exportación,Venezuela,ton,43.2,77760,855733
+2007,Julio,Exportación,Venezuela,ton,20.06,45135,487169
+2007,Septiembre,Exportación,Venezuela,ton,40.12,91654,1006776
+2007,Octubre,Exportación,Venezuela,ton,10.03,49803,541284
+2007,Diciembre,Exportación,Venezuela,ton,40.12,90270,984476
+2008,Marzo,Exportación,Venezuela,ton,20.06,53159,567462
+2008,Mayo,Exportación,Venezuela,ton,20.06,53159,557553
+2008,Diciembre,Exportación,Venezuela,ton,21.6,64800,850157
+2009,Febrero,Exportación,Venezuela,ton,20.06,58575,870003
+2009,Junio,Exportación,Venezuela,ton,20.06,67803,891948
+2009,Agosto,Exportación,Venezuela,ton,20.06,67803,898132
+2009,Septiembre,Exportación,Venezuela,ton,20.06,67502,893814
+2009,Diciembre,Exportación,Venezuela,ton,20.06,67502,871836
+2010,Enero,Exportación,Alemania,ton,1293.733,4119398,52716062
+2010,Febrero,Exportación,Alemania,ton,933.617,2997160,38845220
+2010,Marzo,Exportación,Alemania,ton,689.572,2201557,27696349
+2010,Abril,Exportación,Alemania,ton,990.066,3138214,38412931
+2010,Mayo,Exportación,Alemania,ton,1321.488,4268165,54536066
+2010,Junio,Exportación,Alemania,ton,2688.649,8629599,109864875
+2010,Julio,Exportación,Alemania,ton,2586.508,8227895,105373090
+2010,Agosto,Exportación,Alemania,ton,1365.857,4346560,55214788
+2010,Septiembre,Exportación,Alemania,ton,683.514,2160822,28187078
+2010,Octubre,Exportación,Alemania,ton,269.914,834089,10420841
+2010,Noviembre,Exportación,Alemania,ton,626.699,2203949,27186628
+2010,Diciembre,Exportación,Alemania,ton,768.215,2797110,34686362
+2010,Enero,Exportación,Arabia Saudita,ton,38.4,114720,1483272
+2010,Febrero,Exportación,Arabia Saudita,ton,46.4,142680,1850489
+2010,Marzo,Exportación,Arabia Saudita,ton,442.943,1360955,17145176
+2010,Abril,Exportación,Arabia Saudita,ton,300.406,976360,11999710
+2010,Mayo,Exportación,Arabia Saudita,ton,367.777,1165206,14623826
+2010,Junio,Exportación,Arabia Saudita,ton,247.722,783654,9989493
+2010,Julio,Exportación,Arabia Saudita,ton,196.861,625641,8010989
+2010,Agosto,Exportación,Arabia Saudita,ton,82.98,270825,3417849
+2010,Octubre,Exportación,Arabia Saudita,ton,18.88,64475,798581
+2010,Marzo,Exportación,Austria,ton,20.06,65195,816593
+2010,Enero,Exportación,Bélgica,ton,86.4,254880,3298453
+2010,Febrero,Exportación,Bélgica,ton,99.999,324996,4278248
+2010,Marzo,Exportación,Bélgica,ton,79.675,258944,3243377
+2010,Abril,Exportación,Bélgica,ton,126.84,386644,4719065
+2010,Mayo,Exportación,Bélgica,ton,207.7,666317,8463635
+2010,Junio,Exportación,Bélgica,ton,203.859,638475,8134625
+2010,Julio,Exportación,Bélgica,ton,142.5,413178,5301212
+2010,Agosto,Exportación,Bélgica,ton,41.131,135841,1719068
+2010,Septiembre,Exportación,Bélgica,ton,13.096,41244,527070
+2010,Diciembre,Importación,Brasil,ton,0.5,3570,43767
+2010,Febrero,Exportación,Chile,ton,0.007,4522,58198
+2010,Junio,Exportación,China,ton,20.3,71050,890967
+2010,Septiembre,Exportación,China,ton,21.315,71050,922606
+2010,Noviembre,Exportación,China,ton,20.3,71050,870242
+2010,Julio,Exportación,Cuba,ton,0.083,274,3585
+2010,Agosto,Exportación,Cuba,ton,0.08,270,3506
+2010,Abril,Exportación,España,ton,23.94,80917,1000927
+2010,Mayo,Exportación,España,ton,22.42,78246,1008168
+2010,Enero,Importación,Estados Unidos,ton,46.499,138551,1807809
+2010,Enero,Exportación,Estados Unidos,ton,70.155,174078,2246986
+2010,Febrero,Importación,Estados Unidos,ton,2.883,8519,110031
+2010,Febrero,Exportación,Estados Unidos,ton,48.197,145408,1872096
+2010,Marzo,Importación,Estados Unidos,ton,69.842,231960,2980124
+2010,Marzo,Exportación,Estados Unidos,ton,23.2,70757,895962
+2010,Abril,Exportación,Estados Unidos,ton,323.233,1042520,12738556
+2010,Mayo,Importación,Estados Unidos,ton,0.075,750,9397
+2010,Mayo,Exportación,Estados Unidos,ton,704.329,2230672,28161755
+2010,Junio,Importación,Estados Unidos,ton,0.051,513,6433
+2010,Junio,Exportación,Estados Unidos,ton,775.78,2387388,30453216
+2010,Julio,Importación,Estados Unidos,ton,0.075,750,9589
+2010,Julio,Exportación,Estados Unidos,ton,448.054,1380185,17730718
+2010,Agosto,Importación,Estados Unidos,ton,0.071,711,9048
+2010,Agosto,Exportación,Estados Unidos,ton,334.016,965857,12324310
+2010,Septiembre,Importación,Estados Unidos,ton,0.107,1066,13623
+2010,Septiembre,Exportación,Estados Unidos,ton,172.698,495913,6368131
+2010,Octubre,Exportación,Estados Unidos,ton,163.74,441922,5495374
+2010,Noviembre,Exportación,Estados Unidos,ton,72.699,192950,2378683
+2010,Diciembre,Importación,Estados Unidos,ton,0.158,1461,18190
+2010,Diciembre,Exportación,Estados Unidos,ton,95.997,271086,3370531
+2010,Junio,Exportación,Francia,ton,86.72,300778,3845567
+2010,Julio,Exportación,Francia,ton,147,494025,6350937
+2010,Septiembre,Exportación,Francia,ton,189,608475,7780225
+2010,Octubre,Exportación,Francia,ton,42.027,126220,1568624
+2010,Noviembre,Exportación,Francia,ton,147.176,446818,5551880
+2010,Enero,Exportación,Italia,ton,20.1,60099,764718
+2010,Junio,Exportación,Italia,ton,12,35640,446926
+2010,Agosto,Exportación,Italia,ton,40.966,149517,1891457
+2010,Octubre,Exportación,Italia,ton,22.842,74860,937829
+2010,Noviembre,Exportación,Italia,ton,20.951,69138,859752
+2010,Abril,Exportación,Japón,ton,21,66150,808274
+2010,Junio,Exportación,Japón,ton,20.4,86700,1091770
+2010,Julio,Exportación,Japón,ton,0.036,180,2289
+2010,Agosto,Exportación,Japón,ton,78.31,300064,3838240
+2010,Septiembre,Exportación,Japón,ton,60.6,223380,2909313
+2010,Diciembre,Exportación,Japón,ton,61.2,214200,2668632
+2010,Enero,Exportación,Países no Identificados,ton,0.014,408,5210
+2010,Febrero,Exportación,Países no Identificados,ton,0.067,1938,25312
+2010,Marzo,Exportación,Países no Identificados,ton,0.077,2199,27713
+2010,Abril,Exportación,Países no Identificados,ton,0.082,2344,28556
+2010,Mayo,Exportación,Países no Identificados,ton,0.078,2247,27947
+2010,Junio,Exportación,Países no Identificados,ton,0.066,1900,24214
+2010,Julio,Exportación,Países no Identificados,ton,0.059,1681,21555
+2010,Agosto,Exportación,Países no Identificados,ton,0.079,2237,28506
+2010,Septiembre,Exportación,Países no Identificados,ton,0.076,2100,27219
+2010,Octubre,Exportación,Países no Identificados,ton,0,8,100
+2010,Noviembre,Exportación,Países no Identificados,ton,0.06,1514,18561
+2010,Diciembre,Exportación,Países no Identificados,ton,0.074,1865,23241
+2010,Febrero,Exportación,Panamá,ton,0.06,240,3091
+2010,Mayo,Exportación,Polonia,ton,17.7,54693,699436
+2010,Agosto,Exportación,Polonia,ton,24,77280,999694
+2010,Noviembre,Exportación,Portugal,ton,40.12,106318,1297664
+2010,Enero,Exportación,Reino Unido,ton,116,343128,4404136
+2010,Febrero,Exportación,Reino Unido,ton,62.846,188663,2452219
+2010,Marzo,Exportación,Reino Unido,ton,112.9,340207,4266805
+2010,Abril,Exportación,Reino Unido,ton,296.775,960753,11798192
+2010,Mayo,Exportación,Reino Unido,ton,277.177,919972,11911674
+2010,Junio,Exportación,Reino Unido,ton,348.48,1165283,14784694
+2010,Julio,Exportación,Reino Unido,ton,758.25,2407070,30855299
+2010,Agosto,Exportación,Reino Unido,ton,350.782,1106316,14065393
+2010,Octubre,Exportación,Reino Unido,ton,62.4,193560,2438090
+2010,Noviembre,Exportación,Reino Unido,ton,61.6,178780,2199839
+2010,Diciembre,Exportación,Reino Unido,ton,121.661,446359,5536992
+2010,Diciembre,Exportación,Suecia,ton,42.852,152150,1889247
+2010,Enero,Exportación,Suiza,ton,63,180390,2291097
+2010,Marzo,Exportación,Suiza,ton,211.192,624838,7854631
+2010,Abril,Exportación,Suiza,ton,116.61,388360,4764075
+2010,Mayo,Exportación,Suiza,ton,462.479,1495052,19190815
+2010,Junio,Exportación,Suiza,ton,563.48,1832058,23413981
+2010,Julio,Exportación,Suiza,ton,355.2,1160817,14926430
+2010,Agosto,Exportación,Suiza,ton,45,152970,1936101
+2010,Septiembre,Exportación,Suiza,ton,126.48,400656,5065174
+2010,Octubre,Exportación,Suiza,ton,102.212,309190,3873583
+2010,Noviembre,Exportación,Suiza,ton,63,189000,2354505
+2010,Diciembre,Exportación,Suiza,ton,117,346860,4311678
+2010,Junio,Exportación,Ucrania,ton,62.06,195490,2453019
+2010,Julio,Exportación,Ucrania,ton,83.52,263088,3360924
+2010,Agosto,Exportación,Ucrania,ton,81.658,257223,3252791
+2010,Octubre,Exportación,Ucrania,ton,11,36300,448969
+2010,Febrero,Exportación,Venezuela,ton,20.06,67502,864140
+2010,Marzo,Exportación,Venezuela,ton,20.06,67502,850876
+2010,Julio,Exportación,Venezuela,ton,21.216,67502,862642
+2011,Enero,Exportación,Alemania,ton,449.501,1622034,19703606
+2011,Febrero,Exportación,Alemania,ton,564.753,2055876,24805222
+2011,Marzo,Exportación,Alemania,ton,893.148,3060444,36762758
+2011,Abril,Exportación,Alemania,ton,2079.948,7064119,82937355
+2011,Mayo,Exportación,Alemania,ton,2616.539,8983486,104715252
+2011,Junio,Exportación,Alemania,ton,2174.625,7360519,86701822
+2011,Julio,Exportación,Alemania,ton,1926.286,6522151,75999110
+2011,Agosto,Exportación,Alemania,ton,1162.676,3837845,46618464
+2011,Septiembre,Exportación,Alemania,ton,895.587,2774726,36418961
+2011,Octubre,Exportación,Alemania,ton,221.299,715664,9558230
+2011,Noviembre,Exportación,Alemania,ton,313.53,988094,13388189
+2011,Diciembre,Exportación,Alemania,ton,1297.984,4489043,61524156
+2011,Noviembre,Exportación,Angola,ton,0.026,220,2988
+2011,Marzo,Exportación,Arabia Saudita,ton,320.312,1059379,12679401
+2011,Abril,Exportación,Arabia Saudita,ton,263.073,868503,10231324
+2011,Mayo,Exportación,Arabia Saudita,ton,480.62,1632262,18891562
+2011,Junio,Exportación,Arabia Saudita,ton,409.6,1385470,16120556
+2011,Julio,Exportación,Arabia Saudita,ton,152.591,512369,5959585
+2011,Agosto,Exportación,Arabia Saudita,ton,83.883,276811,3370122
+2011,Diciembre,Exportación,Arabia Saudita,ton,18.88,68912,954087
+2011,Enero,Exportación,Austria,ton,20.06,74222,898294
+2011,Marzo,Exportación,Bélgica,ton,106.4,346892,4142527
+2011,Abril,Exportación,Bélgica,ton,377.5,1250814,14795069
+2011,Mayo,Exportación,Bélgica,ton,42.56,156206,1826158
+2011,Junio,Exportación,Bélgica,ton,65.06,243439,2832076
+2011,Julio,Exportación,Bélgica,ton,0.045,128250,1511773
+2011,Agosto,Exportación,Bélgica,ton,230.157,715395,8562017
+2011,Septiembre,Importación,Brasil,ton,0.55,30968,360373
+2011,Febrero,Exportación,China,ton,23.3,73080,889603
+2011,Mayo,Exportación,China,ton,38.57,139766,1632928
+2011,Junio,Exportación,China,ton,24.36,92429,1096571
+2011,Septiembre,Exportación,China,ton,20.3,73080,933137
+2011,Octubre,Exportación,China,ton,17.408,60684,818716
+2011,Noviembre,Exportación,China,ton,0.29,11367,155031
+2011,Marzo,Exportación,Cuba,ton,0.001,2,24
+2011,Septiembre,Exportación,Cuba,ton,0.103,3310,42700
+2011,Octubre,Exportación,Cuba,ton,0.096,1331,17800
+2011,Abril,Exportación,España,ton,48,167280,1992037
+2011,Mayo,Exportación,España,ton,48,167280,1941954
+2011,Enero,Importación,Estados Unidos,ton,0.056,513,6169
+2011,Enero,Exportación,Estados Unidos,ton,65.074,189453,2302331
+2011,Febrero,Importación,Estados Unidos,ton,0.147,1342,16257
+2011,Febrero,Exportación,Estados Unidos,ton,19.278,53015,638844
+2011,Marzo,Importación,Estados Unidos,ton,0.082,750,9069
+2011,Marzo,Exportación,Estados Unidos,ton,73.295,236706,2832429
+2011,Abril,Importación,Estados Unidos,ton,0.127,1263,14937
+2011,Abril,Exportación,Estados Unidos,ton,367.406,1340615,15645400
+2011,Mayo,Importación,Estados Unidos,ton,0.099,908,10592
+2011,Mayo,Exportación,Estados Unidos,ton,586.971,2133343,24824993
+2011,Junio,Importación,Estados Unidos,ton,0.13,1184,13876
+2011,Junio,Exportación,Estados Unidos,ton,635.709,1684600,19844506
+2011,Julio,Importación,Estados Unidos,ton,0.065,592,6852
+2011,Julio,Exportación,Estados Unidos,ton,391.218,1215951,14192890
+2011,Agosto,Importación,Estados Unidos,ton,0.073,671,8022
+2011,Agosto,Exportación,Estados Unidos,ton,419.686,1265098,15347741
+2011,Septiembre,Importación,Estados Unidos,ton,0.082,750,9198
+2011,Septiembre,Exportación,Estados Unidos,ton,262.474,776027,9963348
+2011,Octubre,Exportación,Estados Unidos,ton,58.625,164949,2239645
+2011,Noviembre,Importación,Estados Unidos,ton,0.181,1658,21744
+2011,Noviembre,Exportación,Estados Unidos,ton,64.489,186235,2562025
+2011,Diciembre,Importación,Estados Unidos,ton,0.324,2961,40648
+2011,Diciembre,Exportación,Estados Unidos,ton,53.59,183780,2540515
+2011,Mayo,Exportación,Francia,ton,21.6,82080,957512
+2011,Junio,Exportación,Francia,ton,210,787500,9137245
+2011,Julio,Exportación,Francia,ton,21.6,82080,955354
+2011,Agosto,Importación,Francia,ton,0.02,772,9228
+2011,Agosto,Exportación,Francia,ton,63,239399,2966136
+2011,Septiembre,Importación,Francia,ton,0.04,1043,13037
+2011,Octubre,Exportación,Francia,ton,168,558600,7762697
+2011,Agosto,Exportación,Guatemala,ton,20,67999,836340
+2011,Mayo,Exportación,Honduras,ton,0.36,1915,22393
+2011,Julio,Exportación,Honduras,ton,0.586,3008,34945
+2011,Abril,Exportación,Italia,ton,48,157440,1852573
+2011,Julio,Exportación,Italia,ton,20.472,76769,889945
+2011,Agosto,Exportación,Italia,ton,12.212,45795,547359
+2011,Enero,Exportación,Japón,ton,40.8,142800,1763523
+2011,Febrero,Exportación,Japón,ton,0.019,24,289
+2011,Abril,Exportación,Japón,ton,44.069,154242,1806020
+2011,Mayo,Exportación,Japón,ton,63.72,260190,3039603
+2011,Junio,Exportación,Japón,ton,21.24,77526,914535
+2011,Julio,Exportación,Japón,ton,122.1,540480,6303858
+2011,Agosto,Exportación,Japón,ton,20.1,76379,896886
+2011,Septiembre,Exportación,Japón,ton,12.036,48671,601164
+2011,Noviembre,Exportación,Japón,ton,21.408,82768,1130901
+2011,Diciembre,Exportación,Japón,ton,20.4,73644,1002295
+2011,Mayo,Exportación,Países Bajos,ton,11,33000,387064
+2011,Agosto,Exportación,Países Bajos,ton,25,74999,927819
+2011,Enero,Exportación,Países no Identificados,ton,0.071,1825,22040
+2011,Febrero,Exportación,Países no Identificados,ton,0.134,3482,42005
+2011,Marzo,Exportación,Países no Identificados,ton,0.087,2290,27424
+2011,Abril,Exportación,Países no Identificados,ton,0.117,3077,36390
+2011,Mayo,Exportación,Países no Identificados,ton,0.118,3084,35799
+2011,Junio,Exportación,Países no Identificados,ton,0.126,3277,38893
+2011,Julio,Exportación,Países no Identificados,ton,0.095,2337,27546
+2011,Agosto,Exportación,Países no Identificados,ton,0.103,2726,33596
+2011,Septiembre,Exportación,Países no Identificados,ton,0.102,2584,33007
+2011,Octubre,Exportación,Países no Identificados,ton,0.085,2232,29517
+2011,Noviembre,Exportación,Países no Identificados,ton,0.075,1833,24868
+2011,Diciembre,Exportación,Países no Identificados,ton,0.117,3097,42245
+2011,Mayo,Exportación,Polonia,ton,42.48,141458,1647519
+2011,Agosto,Exportación,Polonia,ton,20.88,69529,855162
+2011,Septiembre,Exportación,Polonia,ton,0.025,7,89
+2011,Enero,Exportación,Reino Unido,ton,64.8,212544,2563837
+2011,Marzo,Exportación,Reino Unido,ton,42,140700,1691819
+2011,Abril,Exportación,Reino Unido,ton,344.67,1140161,13371728
+2011,Mayo,Exportación,Reino Unido,ton,265.666,901812,10525578
+2011,Junio,Exportación,Reino Unido,ton,366.911,1264315,14840652
+2011,Julio,Exportación,Reino Unido,ton,531.36,1711058,19904657
+2011,Agosto,Exportación,Reino Unido,ton,320.835,1029332,12286564
+2011,Septiembre,Exportación,Reino Unido,ton,362.04,1135042,14234878
+2011,Octubre,Exportación,Reino Unido,ton,237.85,737667,10108829
+2011,Noviembre,Exportación,Reino Unido,ton,66.32,200749,2767713
+2011,Diciembre,Exportación,Reino Unido,ton,69.64,214778,2929880
+2011,Enero,Exportación,Suiza,ton,113.475,388893,4703268
+2011,Febrero,Exportación,Suiza,ton,230,794375,9658796
+2011,Marzo,Exportación,Suiza,ton,458.345,1554170,18619616
+2011,Abril,Exportación,Suiza,ton,464.1,1542238,18088592
+2011,Mayo,Exportación,Suiza,ton,137.263,483244,5621871
+2011,Junio,Exportación,Suiza,ton,524.117,1776741,21023949
+2011,Julio,Exportación,Suiza,ton,403.515,1361837,15899597
+2011,Agosto,Exportación,Suiza,ton,88.5,255268,3001850
+2011,Diciembre,Exportación,Suiza,ton,132.085,438111,6051427
+2011,Mayo,Exportación,Ucrania,ton,167.04,534528,6235510
+2011,Marzo,Exportación,Venezuela,ton,20.06,71213,862119
+2011,Mayo,Exportación,Venezuela,ton,20.06,72617,850301
+2011,Octubre,Exportación,Venezuela,ton,20.06,74661,998468
+2012,Enero,Exportación,Alemania,ton,1133.572,3895871,52624660
+2012,Febrero,Exportación,Alemania,ton,926.641,3069571,39258409
+2012,Marzo,Exportación,Alemania,ton,2021.544,6468713,82529642
+2012,Abril,Exportación,Alemania,ton,2313.159,7245693,94358901
+2012,Mayo,Exportación,Alemania,ton,3527.964,11028110,149625975
+2012,Junio,Exportación,Alemania,ton,2272.929,7448282,103629704
+2012,Julio,Exportación,Alemania,ton,1667.93,5141368,68926187
+2012,Agosto,Exportación,Alemania,ton,924.543,2794509,36840964
+2012,Septiembre,Exportación,Alemania,ton,265.945,818041,10589383
+2012,Octubre,Exportación,Alemania,ton,170.649,565047,7326409
+2012,Noviembre,Exportación,Alemania,ton,767.114,2650038,34628623
+2012,Diciembre,Exportación,Alemania,ton,1272.173,4346086,55879100
+2012,Febrero,Exportación,Arabia Saudita,ton,120,365998,4683540
+2012,Abril,Exportación,Arabia Saudita,ton,543.72,1682345,21965626
+2012,Mayo,Exportación,Arabia Saudita,ton,282.48,886708,12100461
+2012,Junio,Exportación,Arabia Saudita,ton,259.56,805533,11187970
+2012,Julio,Exportación,Arabia Saudita,ton,84.04,259129,3468280
+2012,Agosto,Exportación,Arabia Saudita,ton,1.973,60176,790460
+2012,Septiembre,Exportación,Arabia Saudita,ton,109.15,332907,4327531
+2012,Octubre,Exportación,Arabia Saudita,ton,63,205274,2631174
+2012,Febrero,Exportación,Austria,ton,42.48,144431,1831874
+2012,Junio,Exportación,Austria,ton,61.2,187883,2673946
+2012,Julio,Exportación,Austria,ton,43.66,130980,1744313
+2012,Agosto,Exportación,Austria,ton,20.4,63240,840036
+2012,Marzo,Exportación,Bélgica,ton,67.5,191924,2433850
+2012,Abril,Exportación,Bélgica,ton,179,511545,6583001
+2012,Mayo,Exportación,Bélgica,ton,314.7,917342,12659546
+2012,Junio,Exportación,Bélgica,ton,22.5,65249,915790
+2012,Julio,Exportación,Bélgica,ton,86.85,235797,3142336
+2012,Agosto,Exportación,Bélgica,ton,43.35,114876,1513626
+2012,Septiembre,Exportación,Bélgica,ton,15.631,52346,675914
+2012,Mayo,Exportación,Belice,ton,0.022,108,1483
+2012,Octubre,Exportación,Belice,ton,0.02,113,1463
+2012,Febrero,Importación,Brasil,ton,0.05,27075,374950
+2012,Abril,Exportación,Brasil,ton,48.313,190836,2444480
+2012,Octubre,Importación,Brasil,ton,0.015,8215,108253
+2012,Marzo,Exportación,Canadá,ton,0.08,93,1200
+2012,Octubre,Exportación,Canadá,ton,0.04,233,3000
+2012,Diciembre,Exportación,Canadá,ton,0.48,1789,22896
+2012,Mayo,Exportación,China,ton,43.065,156110,2143430
+2012,Junio,Exportación,China,ton,20.3,73587,1019113
+2012,Julio,Exportación,China,ton,2.9,11367,155207
+2012,Septiembre,Exportación,China,ton,20.3,73587,943333
+2012,Noviembre,Exportación,China,ton,18,37120,489203
+2012,Septiembre,Exportación,Cuba,ton,0.451,1522,19784
+2012,Marzo,Exportación,España,ton,120,374879,4799776
+2012,Mayo,Exportación,España,ton,121.257,385188,5229131
+2012,Junio,Exportación,España,ton,96,288000,4064141
+2012,Enero,Importación,Estados Unidos,ton,0.109,999,12950
+2012,Enero,Exportación,Estados Unidos,ton,74.831,228084,3081512
+2012,Febrero,Importación,Estados Unidos,ton,0.242,2210,28448
+2012,Febrero,Exportación,Estados Unidos,ton,281.915,737966,9458765
+2012,Marzo,Importación,Estados Unidos,ton,0.035,326,4170
+2012,Marzo,Exportación,Estados Unidos,ton,506.805,1463645,18736191
+2012,Abril,Importación,Estados Unidos,ton,0.354,3237,42283
+2012,Abril,Exportación,Estados Unidos,ton,340.178,1024116,13326826
+2012,Mayo,Importación,Estados Unidos,ton,0.058,702,9560
+2012,Mayo,Exportación,Estados Unidos,ton,565.556,1820144,24654871
+2012,Junio,Importación,Estados Unidos,ton,0.03,276,3861
+2012,Junio,Exportación,Estados Unidos,ton,882.805,2935466,40914184
+2012,Julio,Importación,Estados Unidos,ton,0.039,357,4743
+2012,Julio,Exportación,Estados Unidos,ton,693.869,2233766,29979263
+2012,Agosto,Importación,Estados Unidos,ton,0.147,1342,17626
+2012,Agosto,Exportación,Estados Unidos,ton,1120.82,3526753,46543384
+2012,Septiembre,Importación,Estados Unidos,ton,0.086,793,10348
+2012,Septiembre,Exportación,Estados Unidos,ton,598.427,1816416,23582334
+2012,Octubre,Importación,Estados Unidos,ton,0.164,1500,19051
+2012,Octubre,Exportación,Estados Unidos,ton,269.575,903509,11645776
+2012,Noviembre,Importación,Estados Unidos,ton,0.212,1938,25370
+2012,Noviembre,Exportación,Estados Unidos,ton,450.46,1472911,19236397
+2012,Diciembre,Importación,Estados Unidos,ton,0.056,513,6652
+2012,Diciembre,Exportación,Estados Unidos,ton,487.83,1544336,19898742
+2012,Abril,Exportación,Francia,ton,45,127125,1676379
+2012,Mayo,Exportación,Francia,ton,22.5,64800,909371
+2012,Junio,Exportación,Francia,ton,105,374636,5157593
+2012,Julio,Exportación,Francia,ton,42,131038,1757036
+2012,Agosto,Exportación,Francia,ton,84,262080,3509960
+2012,Octubre,Exportación,Francia,ton,21.114,77834,997758
+2012,Marzo,Exportación,Guatemala,ton,20,62000,793817
+2012,Noviembre,Exportación,Guatemala,ton,0.022,236,3080
+2012,Marzo,Exportación,Honduras,ton,0.592,3131,40007
+2012,Diciembre,Exportación,Hong Kong,ton,0.14,3181,41122
+2012,Septiembre,Exportación,Italia,ton,10.596,36027,461993
+2012,Octubre,Exportación,Italia,ton,0.1,3000,38277
+2012,Enero,Exportación,Japón,ton,0.002,20,273
+2012,Febrero,Exportación,Japón,ton,0.021,150,1911
+2012,Mayo,Exportación,Japón,ton,22.104,88416,1150655
+2012,Junio,Exportación,Japón,ton,40.2,159191,2204992
+2012,Julio,Exportación,Japón,ton,70.42,259929,3462751
+2012,Agosto,Exportación,Japón,ton,40.8,183600,2408612
+2012,Septiembre,Exportación,Japón,ton,40.078,164502,2145358
+2012,Octubre,Exportación,Japón,ton,20.4,91800,1176674
+2012,Diciembre,Exportación,Japón,ton,40.8,164218,2123939
+2012,Mayo,Exportación,Países Bajos,ton,41.76,121104,1671163
+2012,Enero,Exportación,Países no Identificados,ton,0.172,4492,61103
+2012,Febrero,Exportación,Países no Identificados,ton,0.179,4730,60269
+2012,Marzo,Exportación,Países no Identificados,ton,0.149,3947,50213
+2012,Abril,Exportación,Países no Identificados,ton,0.159,4185,54977
+2012,Mayo,Exportación,Países no Identificados,ton,0.155,4063,54643
+2012,Junio,Exportación,Países no Identificados,ton,0.137,3594,50201
+2012,Julio,Exportación,Países no Identificados,ton,0.11,3331,44413
+2012,Agosto,Exportación,Países no Identificados,ton,0.112,3006,39444
+2012,Septiembre,Exportación,Países no Identificados,ton,0.112,2958,38558
+2012,Octubre,Exportación,Países no Identificados,ton,0.07,1829,23626
+2012,Noviembre,Exportación,Países no Identificados,ton,0.072,1389,18316
+2012,Diciembre,Exportación,Países no Identificados,ton,0.13,3399,43412
+2012,Enero,Exportación,Reino Unido,ton,204.219,627122,8483886
+2012,Febrero,Exportación,Reino Unido,ton,84,242339,3106915
+2012,Marzo,Exportación,Reino Unido,ton,42.34,118552,1500762
+2012,Abril,Exportación,Reino Unido,ton,242.52,702311,9251424
+2012,Mayo,Exportación,Reino Unido,ton,402.52,1258872,17014387
+2012,Junio,Exportación,Reino Unido,ton,395.543,1197923,16654418
+2012,Julio,Exportación,Reino Unido,ton,908.63,2672232,35726903
+2012,Agosto,Exportación,Reino Unido,ton,196.7,566128,7434058
+2012,Septiembre,Exportación,Reino Unido,ton,311.52,923760,12137497
+2012,Octubre,Exportación,Reino Unido,ton,48,142079,1832913
+2012,Noviembre,Exportación,Reino Unido,ton,238.005,699282,9200605
+2012,Diciembre,Exportación,Reino Unido,ton,193.339,564342,7275240
+2012,Febrero,Exportación,Suiza,ton,116.071,377648,4847841
+2012,Marzo,Exportación,Suiza,ton,240.288,759835,9655052
+2012,Abril,Exportación,Suiza,ton,615.455,1921128,25101937
+2012,Mayo,Exportación,Suiza,ton,227.7,707571,9602820
+2012,Junio,Exportación,Suiza,ton,203.893,640311,9018827
+2012,Julio,Exportación,Suiza,ton,83.81,247012,3324239
+2012,Agosto,Exportación,Suiza,ton,21,62474,817510
+2012,Octubre,Exportación,Suiza,ton,48,143279,1836534
+2012,Noviembre,Exportación,Suiza,ton,84,239396,3111816
+2012,Diciembre,Exportación,Suiza,ton,23.598,85896,1092916
+2012,Abril,Exportación,Venezuela,ton,20.06,78724,1035769
+2012,Julio,Exportación,Venezuela,ton,18.88,73869,998848
+2012,Diciembre,Exportación,Venezuela,ton,10.62,39506,504765
+2013,Enero,Exportación,Alemania,ton,703.38,2342371,29812570
+2013,Febrero,Exportación,Alemania,ton,1052.75,3451017,43850240
+2013,Marzo,Exportación,Alemania,ton,1945.91,6265509,78411870
+2013,Abril,Exportación,Alemania,ton,1917.726,5591248,68477944
+2013,Mayo,Exportación,Alemania,ton,2621.778,9271238,114421679
+2013,Junio,Exportación,Alemania,ton,3043.153,10498151,135508884
+2013,Julio,Exportación,Alemania,ton,2551.608,8502126,108997421
+2013,Agosto,Exportación,Alemania,ton,897.563,2994727,38279093
+2013,Septiembre,Exportación,Alemania,ton,257.985,863654,11421745
+2013,Octubre,Exportación,Alemania,ton,375.183,1277535,16552922
+2013,Noviembre,Exportación,Alemania,ton,562.149,1979703,25930892
+2013,Diciembre,Exportación,Alemania,ton,1577.742,5606797,72887373
+2013,Abril,Exportación,Arabia Saudita,ton,237.6,736559,9031317
+2013,Mayo,Exportación,Arabia Saudita,ton,454.366,1500846,18283741
+2013,Junio,Exportación,Arabia Saudita,ton,998.856,3251264,42431684
+2013,Julio,Exportación,Arabia Saudita,ton,332.729,1004076,12934307
+2013,Agosto,Exportación,Arabia Saudita,ton,41.888,136239,1726261
+2013,Septiembre,Exportación,Arabia Saudita,ton,91.656,283217,3711239
+2013,Diciembre,Exportación,Arabia Saudita,ton,142.381,483965,6295178
+2013,Febrero,Exportación,Austria,ton,20.01,71035,901199
+2013,Marzo,Exportación,Austria,ton,24.32,89497,1114648
+2013,Abril,Exportación,Austria,ton,24,88319,1091158
+2013,Mayo,Exportación,Austria,ton,48,158400,1928615
+2013,Junio,Exportación,Austria,ton,72,237599,3073990
+2013,Enero,Exportación,Bélgica,ton,106.097,300809,3812386
+2013,Febrero,Exportación,Bélgica,ton,65.014,189702,2417609
+2013,Marzo,Exportación,Bélgica,ton,87.6,258345,3261842
+2013,Abril,Exportación,Bélgica,ton,153.45,465200,5694451
+2013,Mayo,Exportación,Bélgica,ton,458.38,1436183,17725468
+2013,Junio,Exportación,Bélgica,ton,244.956,776253,10021415
+2013,Julio,Exportación,Bélgica,ton,198.318,650370,8429408
+2013,Agosto,Exportación,Bélgica,ton,104.447,356451,4576551
+2013,Septiembre,Exportación,Bélgica,ton,60.18,201603,2669486
+2013,Octubre,Exportación,Bélgica,ton,23.256,77907,1002772
+2013,Noviembre,Exportación,Bélgica,ton,22.372,79308,1039182
+2013,Diciembre,Exportación,Bélgica,ton,222.238,768297,10004168
+2013,Febrero,Exportación,Belice,ton,0.02,1348,17134
+2013,Mayo,Exportación,Bolivia,ton,0.002,21,264
+2013,Abril,Exportación,Brasil,ton,0.049,25219,311749
+2013,Diciembre,Importación,Brasil,ton,0.3,4976,64058
+2013,Enero,Exportación,China,ton,20.3,74095,940955
+2013,Febrero,Exportación,China,ton,2.9,11367,145176
+2013,Abril,Exportación,China,ton,20.3,74095,894260
+2013,Junio,Exportación,China,ton,24.07,89295,1136547
+2013,Septiembre,Exportación,China,ton,20.01,84622,1093667
+2013,Noviembre,Exportación,China,ton,20.3,74306,979942
+2013,Octubre,Exportación,Cuba,ton,0.001,0,12
+2013,Marzo,Exportación,Eslovaquia,ton,0.008,84,1081
+2013,Junio,Exportación,España,ton,42.6,136958,1835456
+2013,Enero,Exportación,Estados Unidos,ton,323.81,1175527,14920712
+2013,Febrero,Exportación,Estados Unidos,ton,395.303,1314510,16709727
+2013,Marzo,Exportación,Estados Unidos,ton,120.548,233095,2907922
+2013,Abril,Exportación,Estados Unidos,ton,680.179,2468126,30204638
+2013,Mayo,Exportación,Estados Unidos,ton,893.083,3300261,40511000
+2013,Junio,Exportación,Estados Unidos,ton,378.929,1338054,17379743
+2013,Julio,Exportación,Estados Unidos,ton,146.575,533860,6878818
+2013,Agosto,Exportación,Estados Unidos,ton,115.333,414004,5340276
+2013,Septiembre,Exportación,Estados Unidos,ton,509.851,1707700,22350749
+2013,Octubre,Exportación,Estados Unidos,ton,284.667,980380,12745453
+2013,Noviembre,Exportación,Estados Unidos,ton,750.573,2972184,38843932
+2013,Diciembre,Exportación,Estados Unidos,ton,981.655,3824165,49645481
+2013,Septiembre,Exportación,Federación Rusa,ton,0.06,199,2661
+2013,Mayo,Exportación,Francia,ton,21.157,69818,847927
+2013,Junio,Importación,Francia,ton,0.72,17862,218814
+2013,Junio,Exportación,Francia,ton,84.6,273330,3596260
+2013,Julio,Exportación,Francia,ton,21,72764,942263
+2013,Agosto,Exportación,Francia,ton,21,73500,929481
+2013,Enero,Exportación,Hong Kong,ton,0.104,2846,36906
+2013,Febrero,Exportación,Hong Kong,ton,0.345,2307,29465
+2013,Abril,Exportación,Hong Kong,ton,0.321,2031,24623
+2013,Julio,Exportación,Hong Kong,ton,0.003,8,104
+2013,Agosto,Exportación,Hong Kong,ton,1.172,14928,189236
+2013,Septiembre,Exportación,Hong Kong,ton,0.226,1324,17329
+2013,Noviembre,Exportación,Hong Kong,ton,0.063,180,2359
+2013,Agosto,Importación,Hungría,ton,0.04,1049,13298
+2013,Julio,Exportación,Italia,ton,20.553,73989,955437
+2013,Agosto,Exportación,Italia,ton,20.576,74073,936735
+2013,Febrero,Exportación,Japón,ton,21.258,72338,919385
+2013,Mayo,Exportación,Japón,ton,20.4,93330,1165048
+2013,Junio,Exportación,Japón,ton,60,240667,3088922
+2013,Agosto,Exportación,Japón,ton,20.4,74255,976362
+2013,Septiembre,Exportación,Japón,ton,40.2,160799,2089385
+2013,Octubre,Exportación,Japón,ton,40.8,186659,2436174
+2013,Noviembre,Exportación,Japón,ton,60,223200,2934912
+2013,Diciembre,Exportación,Japón,ton,20.4,61199,802338
+2013,Mayo,Exportación,Países Bajos,ton,22.5,69637,859424
+2013,Junio,Exportación,Países Bajos,ton,21.75,73080,967755
+2013,Julio,Exportación,Países Bajos,ton,66.75,220019,2847859
+2013,Agosto,Exportación,Países Bajos,ton,45,135000,1721858
+2013,Enero,Exportación,Países no Identificados,ton,0.151,3961,50100
+2013,Febrero,Exportación,Países no Identificados,ton,0.128,3424,43560
+2013,Marzo,Exportación,Países no Identificados,ton,0.162,4261,53123
+2013,Abril,Exportación,Países no Identificados,ton,0.046,1191,14461
+2013,Mayo,Exportación,Países no Identificados,ton,0.061,1527,18512
+2013,Junio,Exportación,Países no Identificados,ton,0.122,3219,41360
+2013,Julio,Exportación,Países no Identificados,ton,0.097,2535,32783
+2013,Agosto,Exportación,Países no Identificados,ton,0.111,2917,36924
+2013,Septiembre,Exportación,Países no Identificados,ton,0.127,3222,42279
+2013,Octubre,Exportación,Países no Identificados,ton,0.074,1945,25703
+2013,Noviembre,Exportación,Países no Identificados,ton,0.099,2616,34520
+2013,Diciembre,Exportación,Países no Identificados,ton,0.107,2821,36289
+2013,Enero,Exportación,Reino Unido,ton,65.36,188634,2385148
+2013,Febrero,Exportación,Reino Unido,ton,107.712,352846,4465830
+2013,Marzo,Exportación,Reino Unido,ton,232.76,715173,8945911
+2013,Abril,Exportación,Reino Unido,ton,373.801,1148095,14018575
+2013,Mayo,Exportación,Reino Unido,ton,632.535,2127315,26229113
+2013,Junio,Exportación,Reino Unido,ton,1093.96,3588393,46386093
+2013,Julio,Exportación,Reino Unido,ton,930.587,3086950,39309012
+2013,Agosto,Exportación,Reino Unido,ton,293.16,1001575,12884030
+2013,Septiembre,Exportación,Reino Unido,ton,358.55,1159765,15100596
+2013,Octubre,Exportación,Reino Unido,ton,86.72,290786,3819652
+2013,Noviembre,Exportación,Reino Unido,ton,189.9,638184,8277886
+2013,Marzo,Exportación,República Checa,ton,0.04,253,3250
+2013,Marzo,Exportación,Suiza,ton,115.44,369715,4679110
+2013,Abril,Exportación,Suiza,ton,368.452,523827,6404434
+2013,Mayo,Exportación,Suiza,ton,24.503,91886,1116280
+2013,Junio,Exportación,Suiza,ton,153.606,517506,6871127
+2013,Agosto,Exportación,Suiza,ton,164.72,554120,7129114
+2013,Noviembre,Exportación,Suiza,ton,79.007,305645,3956931
+2013,Marzo,Exportación,Venezuela,ton,20.06,75826,970674
+2013,Abril,Exportación,Venezuela,ton,22.8,79344,965847
+2013,Julio,Exportación,Venezuela,ton,20.06,74623,959647
+2013,Octubre,Exportación,Venezuela,ton,20.06,78059,1021896
+2014,Enero,Exportación,Alemania,ton,1176.815,4328647,56926360
+2014,Febrero,Exportación,Alemania,ton,989.417,3539452,46970485
+2014,Marzo,Exportación,Alemania,ton,957.882,3415757,45102714
+2014,Abril,Exportación,Alemania,ton,2267.802,8103615,105924061
+2014,Mayo,Exportación,Alemania,ton,3118.075,11333475,146654731
+2014,Junio,Exportación,Alemania,ton,2989.975,10955744,142370089
+2014,Julio,Exportación,Alemania,ton,1784.54,6654828,86276883
+2014,Agosto,Exportación,Alemania,ton,1140.721,4167343,54797017
+2014,Septiembre,Exportación,Alemania,ton,378.908,1435305,18905114
+2014,Octubre,Exportación,Alemania,ton,187.717,690332,9312827
+2014,Noviembre,Exportación,Alemania,ton,381.111,1433502,19421195
+2014,Diciembre,Exportación,Alemania,ton,1366.078,5306782,75736918
+2014,Enero,Exportación,Arabia Saudita,ton,155.362,618848,8210634
+2014,Febrero,Exportación,Arabia Saudita,ton,199.175,705621,9373444
+2014,Marzo,Exportación,Arabia Saudita,ton,953.376,3362152,44411175
+2014,Abril,Exportación,Arabia Saudita,ton,775.424,3739442,48876144
+2014,Mayo,Exportación,Arabia Saudita,ton,1098.424,4010232,51857197
+2014,Junio,Exportación,Arabia Saudita,ton,616.528,2209986,28727702
+2014,Julio,Exportación,Arabia Saudita,ton,242.076,843820,10946426
+2014,Agosto,Exportación,Arabia Saudita,ton,45.24,156529,2059783
+2014,Septiembre,Exportación,Arabia Saudita,ton,23.18,79391,1039171
+2014,Junio,Exportación,Australia,ton,43.2,164160,2150611
+2014,Febrero,Exportación,Bélgica,ton,206.684,713702,9472278
+2014,Marzo,Exportación,Bélgica,ton,527.937,2898202,38271820
+2014,Abril,Exportación,Bélgica,ton,431.589,1517750,19852565
+2014,Mayo,Exportación,Bélgica,ton,813.626,2947231,38029879
+2014,Junio,Exportación,Bélgica,ton,994.726,3679368,47736533
+2014,Julio,Exportación,Bélgica,ton,973.195,3613185,46894917
+2014,Agosto,Exportación,Bélgica,ton,241.286,887153,11663562
+2014,Septiembre,Exportación,Bélgica,ton,179.399,675152,8946433
+2014,Octubre,Exportación,Bélgica,ton,247.747,931928,12583815
+2014,Noviembre,Exportación,Bélgica,ton,178.488,682539,9238745
+2014,Diciembre,Exportación,Bélgica,ton,234.559,863963,12424043
+2014,Julio,Exportación,Belice,ton,0.02,133,1739
+2014,Diciembre,Importación,Brasil,ton,0.3,4629,62724
+2014,Marzo,Exportación,Canadá,ton,0.001,1,26
+2014,Octubre,Exportación,Canadá,ton,18.48,67452,914373
+2014,Enero,Exportación,China,ton,20.3,74094,990813
+2014,Marzo,Exportación,China,ton,13.63,94156,1254168
+2014,Abril,Exportación,China,ton,0.295,3481,45425
+2014,Mayo,Exportación,China,ton,20.3,76125,986078
+2014,Junio,Exportación,China,ton,20.3,76124,986024
+2014,Julio,Exportación,China,ton,23.2,86478,1122603
+2014,Noviembre,Exportación,China,ton,2.9,11368,155030
+2014,Marzo,Exportación,Colombia,ton,0.58,3967,52628
+2014,Mayo,Exportación,Colombia,ton,0.58,2146,27712
+2014,Agosto,Exportación,Colombia,ton,3.6,13139,173398
+2014,Septiembre,Exportación,Cuba,ton,0,40,525
+2014,Febrero,Exportación,España,ton,0.025,362,4786
+2014,Abril,Exportación,España,ton,24,90720,1188523
+2014,Mayo,Exportación,España,ton,48,181440,2375068
+2014,Junio,Exportación,España,ton,24,90720,1180485
+2014,Julio,Exportación,España,ton,120.25,463937,6006231
+2014,Agosto,Exportación,España,ton,68.4,263339,3477975
+2014,Septiembre,Exportación,España,ton,0.5,2175,28469
+2014,Octubre,Exportación,España,ton,35.14,130018,1753098
+2014,Noviembre,Exportación,España,ton,72,279000,3790885
+2014,Enero,Exportación,Estados Unidos,ton,714.958,2822031,37434980
+2014,Febrero,Exportación,Estados Unidos,ton,324.274,1147825,15278695
+2014,Marzo,Exportación,Estados Unidos,ton,467.504,1809030,23817649
+2014,Abril,Exportación,Estados Unidos,ton,396.582,1588476,20753079
+2014,Mayo,Exportación,Estados Unidos,ton,1243.641,4882209,63106058
+2014,Junio,Exportación,Estados Unidos,ton,1143.796,4534924,58738511
+2014,Julio,Exportación,Estados Unidos,ton,776.39,3138830,40722468
+2014,Agosto,Exportación,Estados Unidos,ton,346.358,1322056,17431181
+2014,Septiembre,Exportación,Estados Unidos,ton,388.574,1523674,20064526
+2014,Octubre,Exportación,Estados Unidos,ton,427.619,1676566,22590603
+2014,Noviembre,Exportación,Estados Unidos,ton,447.583,1753889,23856050
+2014,Diciembre,Exportación,Estados Unidos,ton,600.442,2402513,34539183
+2014,Abril,Exportación,Francia,ton,20.74,81923,1073077
+2014,Mayo,Exportación,Francia,ton,66.78,249323,3217727
+2014,Junio,Exportación,Francia,ton,155.6,562133,7302003
+2014,Octubre,Exportación,Francia,ton,0.034,96,1290
+2014,Diciembre,Exportación,Guatemala,ton,0.025,204,2837
+2014,Febrero,Exportación,Hong Kong,ton,0.504,2990,39868
+2014,Julio,Exportación,Hong Kong,ton,0.004,5,78
+2014,Noviembre,Exportación,Hong Kong,ton,0.384,2488,33735
+2014,Junio,Exportación,Italia,ton,20.72,76662,1000343
+2014,Noviembre,Exportación,Italia,ton,19.926,77711,1058010
+2014,Febrero,Exportación,Japón,ton,0.026,179,2392
+2014,Mayo,Exportación,Japón,ton,148.68,619144,8048592
+2014,Junio,Exportación,Japón,ton,80.403,328041,4274557
+2014,Julio,Exportación,Japón,ton,97.98,389490,5069945
+2014,Agosto,Exportación,Japón,ton,39.3,159190,2096189
+2014,Septiembre,Exportación,Japón,ton,20.1,83415,1091836
+2014,Marzo,Exportación,Países Bajos,ton,22.2,72149,954833
+2014,Abril,Exportación,Países Bajos,ton,89,299929,3916619
+2014,Mayo,Exportación,Países Bajos,ton,22.5,75600,980948
+2014,Junio,Exportación,Países Bajos,ton,22.8,93668,1219322
+2014,Julio,Exportación,Países Bajos,ton,176.862,667319,8650407
+2014,Septiembre,Exportación,Países Bajos,ton,43.641,157762,2084733
+2014,Enero,Exportación,Países no Identificados,ton,0.14,3465,45526
+2014,Febrero,Exportación,Países no Identificados,ton,0.077,1992,26525
+2014,Marzo,Exportación,Países no Identificados,ton,0.138,3646,48293
+2014,Abril,Exportación,Países no Identificados,ton,0.155,4029,52582
+2014,Mayo,Exportación,Países no Identificados,ton,0.082,2176,28129
+2014,Junio,Exportación,Países no Identificados,ton,0.106,2765,35946
+2014,Julio,Exportación,Países no Identificados,ton,0.068,1807,23495
+2014,Agosto,Exportación,Países no Identificados,ton,0.106,2773,36715
+2014,Septiembre,Exportación,Países no Identificados,ton,0.097,3487,46077
+2014,Octubre,Exportación,Países no Identificados,ton,0.074,2010,26891
+2014,Noviembre,Exportación,Países no Identificados,ton,0.077,2155,29229
+2014,Diciembre,Exportación,Países no Identificados,ton,0.103,2855,41460
+2014,Enero,Exportación,Panamá,ton,0.56,1573,20694
+2014,Marzo,Exportación,Panamá,ton,0.72,2023,26647
+2014,Junio,Exportación,Panamá,ton,1.42,3990,51942
+2014,Agosto,Exportación,Portugal,ton,86,301860,3992672
+2014,Enero,Exportación,Reino Unido,ton,42,132299,1738435
+2014,Febrero,Exportación,Reino Unido,ton,65.7,217767,2902006
+2014,Marzo,Exportación,Reino Unido,ton,327.632,1125853,14901639
+2014,Abril,Exportación,Reino Unido,ton,266.166,920904,12050574
+2014,Mayo,Exportación,Reino Unido,ton,313.44,1114830,14483381
+2014,Junio,Exportación,Reino Unido,ton,799.49,2938254,38084599
+2014,Julio,Exportación,Reino Unido,ton,649.27,2359086,30601410
+2014,Agosto,Exportación,Reino Unido,ton,237,870282,11515575
+2014,Septiembre,Exportación,Reino Unido,ton,286.772,1048795,13805026
+2014,Octubre,Exportación,Reino Unido,ton,90.753,334009,4495001
+2014,Noviembre,Exportación,Reino Unido,ton,88.7,320001,4354346
+2014,Diciembre,Exportación,Reino Unido,ton,66,237600,3460981
+2014,Enero,Exportación,Suiza,ton,48.64,176319,2307077
+2014,Febrero,Exportación,Suiza,ton,68.06,244012,3252327
+2014,Marzo,Exportación,Suiza,ton,237.02,679496,9008981
+2014,Abril,Exportación,Suiza,ton,21.75,73950,964996
+2014,Mayo,Exportación,Suiza,ton,90.374,347901,4480808
+2014,Junio,Exportación,Suiza,ton,178.082,644795,8332971
+2014,Julio,Exportación,Suiza,ton,88.22,334135,4331837
+2014,Agosto,Exportación,Suiza,ton,21.75,79822,1053641
+2014,Octubre,Exportación,Suiza,ton,91.353,355054,4801245
+2014,Diciembre,Exportación,Suiza,ton,121.293,482957,6934305
+2014,Febrero,Exportación,Venezuela,ton,40.12,149418,1998762
+2014,Mayo,Exportación,Venezuela,ton,40.12,153546,1988948
+2014,Septiembre,Exportación,Venezuela,ton,20.06,76903,1016230
+2015,Enero,Exportación,Alemania,ton,1136.506,4402226,64713769
+2015,Febrero,Exportación,Alemania,ton,1232.262,4818888,71735474
+2015,Marzo,Exportación,Alemania,ton,965.009,3663643,55734776
+2015,Abril,Exportación,Alemania,ton,2141.188,8060944,123040381
+2015,Mayo,Exportación,Alemania,ton,3694.963,13895406,211602678
+2015,Junio,Exportación,Alemania,ton,3870.186,14419805,222745025
+2015,Julio,Exportación,Alemania,ton,3204.638,11624405,184550431
+2015,Agosto,Exportación,Alemania,ton,2015.259,7347327,120252688
+2015,Septiembre,Exportación,Alemania,ton,931.325,3220119,54174909
+2015,Octubre,Exportación,Alemania,ton,297.203,985870,16312447
+2015,Noviembre,Exportación,Alemania,ton,208.784,644200,10676202
+2015,Diciembre,Exportación,Alemania,ton,1036.064,3575205,60814235
+2015,Marzo,Exportación,Arabia Saudita,ton,273.376,1014802,15162839
+2015,Abril,Exportación,Arabia Saudita,ton,687.6,2538213,38876237
+2015,Mayo,Exportación,Arabia Saudita,ton,943.56,3478172,53045913
+2015,Junio,Exportación,Arabia Saudita,ton,508.7,1859632,28721567
+2015,Julio,Exportación,Arabia Saudita,ton,725.02,2623428,41586450
+2015,Agosto,Exportación,Arabia Saudita,ton,234.08,854781,14221946
+2015,Septiembre,Exportación,Arabia Saudita,ton,138,491767,8277759
+2015,Octubre,Exportación,Arabia Saudita,ton,45.6,166440,2842313
+2015,Marzo,Exportación,Australia,ton,41.35,156302,2334338
+2015,Abril,Exportación,Australia,ton,165.6,625968,9575448
+2015,Mayo,Exportación,Australia,ton,124.15,469287,7162446
+2015,Julio,Exportación,Australia,ton,83.2,314495,5061813
+2015,Septiembre,Exportación,Australia,ton,124.8,471744,8057435
+2015,Febrero,Exportación,Austria,ton,48,186720,2814935
+2015,Enero,Exportación,Bélgica,ton,109.226,407900,5973234
+2015,Febrero,Exportación,Bélgica,ton,197.094,633989,9465606
+2015,Marzo,Exportación,Bélgica,ton,199.96,724361,10995821
+2015,Abril,Exportación,Bélgica,ton,380.967,1417279,21557176
+2015,Mayo,Exportación,Bélgica,ton,201.46,759436,11544422
+2015,Junio,Exportación,Bélgica,ton,286.55,1031138,15932183
+2015,Julio,Exportación,Bélgica,ton,544.95,1989567,31717010
+2015,Agosto,Exportación,Bélgica,ton,420.75,1480483,24139284
+2015,Septiembre,Exportación,Bélgica,ton,201.6,581269,9767361
+2015,Octubre,Exportación,Bélgica,ton,85.063,249279,4132134
+2015,Diciembre,Exportación,Bélgica,ton,45.461,137674,2325292
+2015,Junio,Exportación,Canadá,ton,18,75599,1176676
+2015,Abril,Exportación,China,ton,3.77,14778,225304
+2015,Mayo,Exportación,China,ton,64.8,244521,3688503
+2015,Junio,Exportación,China,ton,1.18,5841,90428
+2015,Agosto,Exportación,China,ton,0.027,2,33
+2015,Noviembre,Exportación,China,ton,18.88,66457,1113630
+2015,Diciembre,Exportación,China,ton,2.9,11367,197339
+2015,Marzo,Exportación,Colombia,ton,14.874,58008,879909
+2015,Mayo,Exportación,Colombia,ton,24,92399,1417388
+2015,Junio,Exportación,Colombia,ton,14.4,58320,892716
+2015,Julio,Exportación,Colombia,ton,14.4,58319,938660
+2015,Septiembre,Exportación,Colombia,ton,14.4,53999,920446
+2015,Octubre,Exportación,Colombia,ton,14.4,54000,899640
+2015,Diciembre,Exportación,Colombia,ton,14.4,54000,912838
+2015,Octubre,Exportación,Cuba,ton,0.002,2,36
+2015,Septiembre,Exportación,Emiratos Árabes Unidos,ton,3.42,13167,222117
+2015,Febrero,Exportación,España,ton,21.879,87514,1305966
+2015,Marzo,Exportación,España,ton,72,262799,3938373
+2015,Abril,Exportación,España,ton,94.8,349102,5296736
+2015,Mayo,Exportación,España,ton,43.661,182095,2753497
+2015,Junio,Exportación,España,ton,62.109,242376,3722284
+2015,Julio,Exportación,España,ton,220.389,771918,12198503
+2015,Agosto,Exportación,España,ton,83.056,299363,4905044
+2015,Septiembre,Exportación,España,ton,124.844,427430,7189812
+2015,Octubre,Exportación,España,ton,44.7,138569,2308576
+2015,Noviembre,Exportación,España,ton,43.5,128324,2133005
+2015,Enero,Exportación,Estados Unidos,ton,315.805,1295981,19037816
+2015,Febrero,Exportación,Estados Unidos,ton,256.96,1037089,15479652
+2015,Marzo,Exportación,Estados Unidos,ton,227.807,824737,12593815
+2015,Abril,Exportación,Estados Unidos,ton,650.274,2629203,40195470
+2015,Mayo,Exportación,Estados Unidos,ton,1305.986,5432327,82881406
+2015,Junio,Exportación,Estados Unidos,ton,1018.636,3953974,61162622
+2015,Julio,Exportación,Estados Unidos,ton,823.715,3026928,47789580
+2015,Agosto,Exportación,Estados Unidos,ton,213.057,1129924,18523745
+2015,Septiembre,Exportación,Estados Unidos,ton,216.165,810319,13604734
+2015,Octubre,Exportación,Estados Unidos,ton,206.283,629165,10458831
+2015,Noviembre,Exportación,Estados Unidos,ton,38.098,139066,2313448
+2015,Diciembre,Exportación,Estados Unidos,ton,87.636,491820,8357601
+2015,Febrero,Exportación,Francia,ton,20.666,84730,1264418
+2015,Marzo,Importación,Francia,ton,0.45,4973,68469
+2015,Mayo,Exportación,Francia,ton,116.4,424858,6438032
+2015,Junio,Exportación,Francia,ton,21.6,85319,1318663
+2015,Julio,Exportación,Francia,ton,51.179,190139,3014622
+2015,Octubre,Importación,Francia,ton,1.109,10963,179294
+2015,Noviembre,Exportación,Francia,ton,21.023,72562,1214765
+2015,Agosto,Exportación,Hong Kong,ton,0.193,1580,26692
+2015,Septiembre,Exportación,Hong Kong,ton,0.003,281,4735
+2015,Diciembre,Exportación,Hong Kong,ton,0.143,1692,29023
+2015,Septiembre,Importación,Hungría,ton,0.08,2267,38432
+2015,Julio,Exportación,Italia,ton,20.532,80074,1280037
+2015,Agosto,Exportación,Italia,ton,20.514,80002,1368565
+2015,Abril,Exportación,Japón,ton,21.24,97704,1496952
+2015,Mayo,Exportación,Japón,ton,21.24,97704,1485521
+2015,Junio,Exportación,Japón,ton,127.58,588723,9189899
+2015,Julio,Exportación,Japón,ton,76.214,326998,5192985
+2015,Agosto,Exportación,Japón,ton,96.085,411531,6781925
+2015,Septiembre,Exportación,Japón,ton,104.58,338920,5694424
+2015,Octubre,Exportación,Japón,ton,21,93240,1592269
+2015,Noviembre,Exportación,Japón,ton,0.93,8109,134006
+2015,Marzo,Exportación,Países Bajos,ton,22.2,79254,1183635
+2015,Abril,Exportación,Países Bajos,ton,22.2,77256,1151416
+2015,Julio,Exportación,Países Bajos,ton,109.5,388176,6178334
+2015,Octubre,Exportación,Países Bajos,ton,85.5,276974,4681849
+2015,Diciembre,Exportación,Países Bajos,ton,43.2,101086,1738238
+2015,Enero,Exportación,Países no Identificados,ton,0.125,3443,50423
+2015,Febrero,Exportación,Países no Identificados,ton,0.12,3074,45886
+2015,Marzo,Exportación,Países no Identificados,ton,0.111,3062,47346
+2015,Abril,Exportación,Países no Identificados,ton,0.098,2710,40803
+2015,Mayo,Exportación,Países no Identificados,ton,0.119,3279,50260
+2015,Junio,Exportación,Países no Identificados,ton,0.104,2839,44505
+2015,Julio,Exportación,Países no Identificados,ton,0.069,1930,30528
+2015,Agosto,Exportación,Países no Identificados,ton,0.083,2307,37316
+2015,Septiembre,Exportación,Países no Identificados,ton,0.097,2677,45030
+2015,Octubre,Exportación,Países no Identificados,ton,0.061,1700,27911
+2015,Noviembre,Exportación,Países no Identificados,ton,0.061,1687,28432
+2015,Diciembre,Exportación,Países no Identificados,ton,0.096,2459,41989
+2015,Marzo,Exportación,Polonia,ton,22.905,87039,1304384
+2015,Agosto,Exportación,Portugal,ton,66.6,213119,3478992
+2015,Septiembre,Exportación,Portugal,ton,66.6,213119,3583996
+2015,Octubre,Exportación,Portugal,ton,66.3,207750,3422377
+2015,Noviembre,Exportación,Portugal,ton,44.4,142080,2361640
+2015,Enero,Exportación,Reino Unido,ton,135,503242,7433244
+2015,Febrero,Exportación,Reino Unido,ton,236.58,864648,12935188
+2015,Marzo,Exportación,Reino Unido,ton,201.04,726608,11108375
+2015,Abril,Exportación,Reino Unido,ton,347.35,1264985,19226652
+2015,Mayo,Exportación,Reino Unido,ton,563.995,2044345,31090567
+2015,Junio,Exportación,Reino Unido,ton,641.36,2304822,35503399
+2015,Julio,Exportación,Reino Unido,ton,589.36,2135037,33811132
+2015,Agosto,Exportación,Reino Unido,ton,691,2487670,41051713
+2015,Septiembre,Exportación,Reino Unido,ton,309.13,1076913,18240189
+2015,Octubre,Exportación,Reino Unido,ton,324.54,926240,15438577
+2015,Noviembre,Exportación,Reino Unido,ton,131.25,386187,6427004
+2015,Diciembre,Exportación,Reino Unido,ton,260.2,830352,14104977
+2015,Enero,Exportación,Suiza,ton,64.95,240083,3527766
+2015,Febrero,Exportación,Suiza,ton,192,745319,11100402
+2015,Marzo,Exportación,Suiza,ton,213.6,807228,12326389
+2015,Abril,Exportación,Suiza,ton,427.2,1606995,24540457
+2015,Mayo,Exportación,Suiza,ton,437.148,1606439,24500664
+2015,Junio,Exportación,Suiza,ton,363.02,1316041,20363148
+2015,Julio,Exportación,Suiza,ton,195.45,706795,11181350
+2015,Agosto,Exportación,Suiza,ton,224.294,816027,13390522
+2015,Septiembre,Exportación,Suiza,ton,115.2,409247,6934462
+2015,Octubre,Exportación,Suiza,ton,69.6,243167,4031823
+2015,Noviembre,Exportación,Suiza,ton,21.6,69119,1158852
+2015,Diciembre,Exportación,Suiza,ton,89.44,293585,5039780
+2015,Junio,Exportación,Venezuela,ton,20.06,76903,1205188
+2015,Agosto,Exportación,Venezuela,ton,40.12,149246,2452372
+2015,Octubre,Exportación,Venezuela,ton,20.06,74623,1236969
+2016,Enero,Exportación,Alemania,ton,731.885,2552413,45842973
+2016,Febrero,Exportación,Alemania,ton,365.131,1282247,23851421
+2016,Marzo,Exportación,Alemania,ton,186.066,608284,10834208
+2016,Abril,Exportación,Alemania,ton,383.429,1253535,21890600
+2016,Mayo,Exportación,Alemania,ton,1691.284,5198972,94685047
+2016,Junio,Exportación,Alemania,ton,3073.848,9517250,177748450
+2016,Julio,Exportación,Alemania,ton,2473.803,7443435,137972004
+2016,Agosto,Exportación,Alemania,ton,1609.711,4402637,81348840
+2016,Septiembre,Exportación,Alemania,ton,807.713,2465440,47033374
+2016,Octubre,Exportación,Alemania,ton,658.074,2057290,39070674
+2016,Noviembre,Exportación,Alemania,ton,780.827,2111396,42120734
+2016,Diciembre,Exportación,Alemania,ton,1401.763,3754445,76623732
+2016,Febrero,Exportación,Arabia Saudita,ton,17.099,119699,2251425
+2016,Marzo,Exportación,Arabia Saudita,ton,93.96,295973,5297076
+2016,Abril,Exportación,Arabia Saudita,ton,318.6,974916,16873557
+2016,Mayo,Exportación,Arabia Saudita,ton,212.4,637199,11440862
+2016,Abril,Exportación,Bélgica,ton,364.8,502496,8910624
+2016,Mayo,Exportación,Bélgica,ton,87,233326,4274733
+2016,Junio,Exportación,Bélgica,ton,364.014,1071378,19929883
+2016,Julio,Exportación,Bélgica,ton,157.8,434260,8054980
+2016,Agosto,Exportación,Bélgica,ton,380.4,1025973,18708117
+2016,Septiembre,Exportación,Bélgica,ton,262.84,646811,12157786
+2016,Octubre,Exportación,Bélgica,ton,205.206,517979,9919294
+2016,Noviembre,Exportación,Bélgica,ton,61.119,204283,3984203
+2016,Diciembre,Exportación,Bélgica,ton,216,410400,8419581
+2016,Marzo,Importación,Brasil,ton,0.3,4222,77910
+2016,Diciembre,Exportación,Canadá,ton,18,57420,1190397
+2016,Agosto,Exportación,Chile,ton,0.07,518,9497
+2016,Noviembre,Exportación,Chile,ton,0.023,761,15448
+2016,Enero,Exportación,China,ton,18.88,66080,1229617
+2016,Marzo,Exportación,China,ton,18.88,58528,1045082
+2016,Abril,Exportación,China,ton,3.77,14778,257134
+2016,Mayo,Exportación,China,ton,74.08,219159,3987476
+2016,Julio,Exportación,China,ton,18.907,58612,1072952
+2016,Agosto,Exportación,China,ton,58.111,168559,3071696
+2016,Septiembre,Exportación,China,ton,2.36,4720,92061
+2016,Noviembre,Exportación,China,ton,15,40500,772708
+2016,Diciembre,Exportación,China,ton,41.327,135450,2790066
+2016,Mayo,Exportación,Colombia,ton,0.04,30,553
+2016,Agosto,Exportación,Colombia,ton,24,67200,1215191
+2016,Septiembre,Exportación,Colombia,ton,24,65999,1223818
+2016,Octubre,Exportación,Colombia,ton,48,132000,2547521
+2016,Diciembre,Exportación,Colombia,ton,24,66000,1359422
+2016,Enero,Exportación,España,ton,131.25,360972,6470679
+2016,Junio,Exportación,España,ton,20.74,85033,1603120
+2016,Julio,Exportación,España,ton,42.34,166034,3077488
+2016,Agosto,Exportación,España,ton,89.425,285695,5230389
+2016,Septiembre,Exportación,España,ton,59.768,177513,3388862
+2016,Octubre,Exportación,España,ton,21,54600,1013693
+2016,Diciembre,Exportación,España,ton,21.6,48600,988062
+2016,Enero,Exportación,Estados Unidos,ton,84.996,728222,12754266
+2016,Febrero,Exportación,Estados Unidos,ton,95.019,666687,12401915
+2016,Marzo,Exportación,Estados Unidos,ton,98.324,318114,5579378
+2016,Abril,Exportación,Estados Unidos,ton,401.394,1247982,21885023
+2016,Mayo,Exportación,Estados Unidos,ton,1264.289,4669116,84512028
+2016,Junio,Exportación,Estados Unidos,ton,663.351,2402240,44990426
+2016,Julio,Exportación,Estados Unidos,ton,485.913,1682161,31279039
+2016,Agosto,Exportación,Estados Unidos,ton,539.216,1548808,28423419
+2016,Septiembre,Exportación,Estados Unidos,ton,313.888,2058587,39057365
+2016,Octubre,Exportación,Estados Unidos,ton,297.972,2069897,38730914
+2016,Noviembre,Exportación,Estados Unidos,ton,232.917,4129109,84789445
+2016,Diciembre,Exportación,Estados Unidos,ton,238.02,1903678,38918476
+2016,Julio,Importación,Francia,ton,0.713,6888,129913
+2016,Agosto,Exportación,Francia,ton,0.9,2430,44948
+2016,Septiembre,Exportación,Francia,ton,63.676,188803,3717773
+2016,Octubre,Exportación,Francia,ton,9.368,36239,694955
+2016,Diciembre,Exportación,Francia,ton,41.44,138850,2856679
+2016,Marzo,Exportación,Hong Kong,ton,0.001,563,9885
+2016,Abril,Exportación,Hong Kong,ton,0.28,2020,35203
+2016,Mayo,Exportación,Hong Kong,ton,0.268,1973,36424
+2016,Octubre,Exportación,Hong Kong,ton,0.341,2608,48601
+2016,Noviembre,Exportación,Hong Kong,ton,0.095,1544,30772
+2016,Marzo,Exportación,Italia,ton,63,165689,2965370
+2016,Julio,Exportación,Italia,ton,20.569,80219,1483083
+2016,Agosto,Exportación,Italia,ton,22.229,84470,1543085
+2016,Enero,Exportación,Japón,ton,22.5,94725,1755747
+2016,Febrero,Exportación,Japón,ton,7.297,20510,374935
+2016,Marzo,Exportación,Japón,ton,20.82,60898,1089907
+2016,Mayo,Exportación,Japón,ton,35.559,126983,2331738
+2016,Junio,Exportación,Japón,ton,86.045,342181,6358780
+2016,Agosto,Exportación,Japón,ton,84.18,239004,4394579
+2016,Septiembre,Exportación,Japón,ton,18.9,54809,1074084
+2016,Octubre,Exportación,Japón,ton,20.148,58429,1089594
+2016,Noviembre,Exportación,Japón,ton,21.24,60534,1239809
+2016,Diciembre,Exportación,Japón,ton,43.2,185242,3781930
+2016,Mayo,Exportación,Países Bajos,ton,64.8,121173,2202918
+2016,Julio,Exportación,Países Bajos,ton,280.222,771049,14367411
+2016,Agosto,Exportación,Países Bajos,ton,280.866,751702,13924785
+2016,Octubre,Exportación,Países Bajos,ton,21.622,56167,1079185
+2016,Noviembre,Exportación,Países Bajos,ton,108,259199,5327104
+2016,Enero,Exportación,Países no Identificados,ton,0.087,2397,42805
+2016,Febrero,Exportación,Países no Identificados,ton,0.127,3491,66973
+2016,Marzo,Exportación,Países no Identificados,ton,0.116,3218,57475
+2016,Abril,Exportación,Países no Identificados,ton,0.109,3030,53243
+2016,Mayo,Exportación,Países no Identificados,ton,0.112,3117,56080
+2016,Junio,Exportación,Países no Identificados,ton,0.105,2934,54319
+2016,Julio,Exportación,Países no Identificados,ton,0.086,2474,45668
+2016,Agosto,Exportación,Países no Identificados,ton,0.118,3341,61293
+2016,Septiembre,Exportación,Países no Identificados,ton,0.115,3338,63647
+2016,Octubre,Exportación,Países no Identificados,ton,0.044,1274,24171
+2016,Noviembre,Exportación,Países no Identificados,ton,0.071,2046,41924
+2016,Diciembre,Exportación,Países no Identificados,ton,0.106,3085,62717
+2016,Junio,Exportación,Panamá,ton,0.002,0,4
+2016,Octubre,Exportación,Panamá,ton,21.6,56160,1069281
+2016,Noviembre,Exportación,Panamá,ton,21.672,56470,1149208
+2016,Diciembre,Exportación,Portugal,ton,108,197100,4065602
+2016,Febrero,Exportación,Reino Unido,ton,85.776,251235,4716538
+2016,Marzo,Exportación,Reino Unido,ton,22.2,53279,927253
+2016,Abril,Exportación,Reino Unido,ton,109.8,264150,4589511
+2016,Mayo,Exportación,Reino Unido,ton,154.2,416339,7605984
+2016,Junio,Exportación,Reino Unido,ton,494.675,1446170,26910760
+2016,Julio,Exportación,Reino Unido,ton,877.26,2381445,44291833
+2016,Agosto,Exportación,Reino Unido,ton,523.65,1342163,24624354
+2016,Septiembre,Exportación,Reino Unido,ton,602.53,1452904,27808849
+2016,Octubre,Exportación,Reino Unido,ton,378.9,946379,18052007
+2016,Noviembre,Exportación,Reino Unido,ton,155.3,352807,6906052
+2016,Diciembre,Exportación,Reino Unido,ton,287.756,611561,12519298
+2016,Agosto,Exportación,República Checa,ton,21.24,47790,873018
+2016,Julio,Exportación,República Dominicana,ton,0.278,360,6679
+2016,Octubre,Exportación,Sudáfrica,ton,12,32879,623477
+2016,Enero,Exportación,Suiza,ton,21.473,75155,1347568
+2016,Febrero,Exportación,Suiza,ton,67.216,218004,4012487
+2016,Marzo,Exportación,Suiza,ton,48,129600,2293946
+2016,Mayo,Exportación,Suiza,ton,344.06,958742,17473721
+2016,Junio,Exportación,Suiza,ton,459.575,1332565,24790135
+2016,Julio,Exportación,Suiza,ton,301.955,888625,16538455
+2016,Agosto,Exportación,Suiza,ton,111.084,353107,6439682
+2016,Septiembre,Exportación,Suiza,ton,21.696,83529,1550151
+2016,Octubre,Exportación,Suiza,ton,21.631,80034,1537771
+2016,Noviembre,Exportación,Suiza,ton,21.056,67379,1247115
+2016,Diciembre,Exportación,Suiza,ton,69.36,206234,4211339
+2017,Enero,Exportación,Alemania,ton,906.437,2895979,62078713
+2017,Febrero,Exportación,Alemania,ton,358.241,1077873,22013229
+2017,Marzo,Exportación,Alemania,ton,887.006,2436049,47356208
+2017,Abril,Exportación,Alemania,ton,622.687,2024761,38034980
+2017,Mayo,Exportación,Alemania,ton,1527.746,5033996,94615246
+2017,Junio,Exportación,Alemania,ton,2643.694,8083373,147332406
+2017,Julio,Exportación,Alemania,ton,1836.128,6109044,108931858
+2017,Agosto,Exportación,Alemania,ton,1025.988,3536697,63094963
+2017,Septiembre,Exportación,Alemania,ton,404.166,1368269,24382848
+2017,Octubre,Exportación,Alemania,ton,230.927,897179,16595254
+2017,Noviembre,Exportación,Alemania,ton,261.572,896645,16991149
+2017,Diciembre,Exportación,Alemania,ton,712.822,2486214,47187382
+2017,Febrero,Exportación,Arabia Saudita,ton,24,60000,1219950
+2017,Marzo,Exportación,Arabia Saudita,ton,72,199800,3811605
+2017,Abril,Exportación,Arabia Saudita,ton,194.8,559146,10501424
+2017,Mayo,Exportación,Arabia Saudita,ton,575.2,1591868,29764928
+2017,Junio,Exportación,Arabia Saudita,ton,378,1032750,18710909
+2017,Julio,Exportación,Arabia Saudita,ton,331.2,1006160,17892028
+2017,Agosto,Exportación,Arabia Saudita,ton,199.2,633488,11302748
+2017,Septiembre,Exportación,Arabia Saudita,ton,118,391996,7009045
+2017,Octubre,Exportación,Arabia Saudita,ton,97.528,343667,6397535
+2017,Noviembre,Exportación,Arabia Saudita,ton,22.8,71820,1368358
+2017,Diciembre,Exportación,Arabia Saudita,ton,68.4,194028,3653887
+2017,Enero,Exportación,Austria,ton,21.6,47520,1040897
+2017,Marzo,Exportación,Austria,ton,21.45,47190,934239
+2017,Enero,Exportación,Bélgica,ton,20,71000,1523035
+2017,Febrero,Exportación,Bélgica,ton,63,248850,4954993
+2017,Marzo,Exportación,Bélgica,ton,192.32,638034,12191258
+2017,Abril,Exportación,Bélgica,ton,129.538,434789,8142950
+2017,Mayo,Exportación,Bélgica,ton,45.2,119600,2257535
+2017,Junio,Exportación,Bélgica,ton,106.474,362482,6612885
+2017,Julio,Exportación,Bélgica,ton,305.519,1005839,17823797
+2017,Agosto,Exportación,Bélgica,ton,66.02,265575,4755726
+2017,Septiembre,Exportación,Bélgica,ton,150.616,543026,9694224
+2017,Octubre,Exportación,Bélgica,ton,103.621,434508,8255176
+2017,Diciembre,Exportación,Bélgica,ton,20.612,84509,1617430
+2017,Marzo,Exportación,Canadá,ton,19.8,47520,895885
+2017,Mayo,Exportación,Canadá,ton,19.417,81296,1545737
+2017,Julio,Exportación,Canadá,ton,19.605,79714,1439882
+2017,Marzo,Exportación,Chile,ton,0.074,570,10901
+2017,Mayo,Exportación,Chile,ton,0.37,3096,57852
+2017,Octubre,Exportación,Chile,ton,0.165,1031,18799
+2017,Marzo,Exportación,China,ton,18.907,57099,1073989
+2017,Mayo,Exportación,China,ton,66.907,205899,3889393
+2017,Junio,Exportación,China,ton,48.632,129406,2363267
+2017,Julio,Exportación,China,ton,18.907,52940,930869
+2017,Septiembre,Exportación,China,ton,18.907,54830,973841
+2017,Octubre,Exportación,China,ton,18.907,54830,1028786
+2017,Febrero,Exportación,Colombia,ton,24,66000,1341945
+2017,Octubre,Exportación,Colombia,ton,24,76800,1430991
+2017,Septiembre,Exportación,Cuba,ton,0.027,180,3202
+2017,Marzo,Exportación,Dinamarca,ton,40.8,114954,2182395
+2017,Abril,Exportación,Dinamarca,ton,41.4,114222,2138145
+2017,Octubre,Exportación,Dinamarca,ton,19.2,84672,1599192
+2017,Enero,Exportación,España,ton,63.48,140700,3029300
+2017,Febrero,Exportación,España,ton,65.087,225768,4555564
+2017,Marzo,Exportación,España,ton,21,48720,931380
+2017,Mayo,Exportación,España,ton,21.259,71218,1346291
+2017,Junio,Exportación,España,ton,195.3,566850,10319079
+2017,Julio,Exportación,España,ton,122.355,426880,7511486
+2017,Agosto,Exportación,España,ton,19.215,84546,1505333
+2017,Septiembre,Exportación,España,ton,59.808,165060,2933146
+2017,Octubre,Exportación,España,ton,21.179,70950,1362297
+2017,Noviembre,Exportación,España,ton,40.87,172416,3289948
+2017,Enero,Exportación,Estados Unidos,ton,512.801,5337442,114285461
+2017,Febrero,Exportación,Estados Unidos,ton,262.732,4298553,87724749
+2017,Marzo,Exportación,Estados Unidos,ton,551.05,4064284,77526586
+2017,Abril,Exportación,Estados Unidos,ton,398.924,1544256,28947063
+2017,Mayo,Exportación,Estados Unidos,ton,779.432,5193086,97685302
+2017,Junio,Exportación,Estados Unidos,ton,791.201,5802598,106040496
+2017,Julio,Exportación,Estados Unidos,ton,689.953,2674418,47945718
+2017,Agosto,Exportación,Estados Unidos,ton,344.024,1353199,24126352
+2017,Septiembre,Exportación,Estados Unidos,ton,285.536,1090880,19427062
+2017,Octubre,Exportación,Estados Unidos,ton,269.527,1030224,19293724
+2017,Noviembre,Exportación,Estados Unidos,ton,157.922,547746,10462106
+2017,Diciembre,Importación,Estados Unidos,ton,2.948,9720,183866
+2017,Diciembre,Exportación,Estados Unidos,ton,116.236,394917,7500871
+2017,Enero,Exportación,Francia,ton,20.74,82960,1800249
+2017,Abril,Exportación,Francia,ton,21,48720,916847
+2017,Julio,Exportación,Francia,ton,84,227010,4012208
+2017,Agosto,Exportación,Francia,ton,43.2,167184,2986675
+2017,Septiembre,Exportación,Francia,ton,42.423,163761,2925308
+2017,Octubre,Importación,Francia,ton,0.356,3894,68867
+2017,Noviembre,Exportación,Francia,ton,18.817,72445,1363728
+2017,Diciembre,Importación,Francia,ton,0.277,2894,55239
+2017,Febrero,Exportación,Hong Kong,ton,0.336,2820,56154
+2017,Marzo,Exportación,Hong Kong,ton,0.15,300,5666
+2017,Mayo,Exportación,Hong Kong,ton,0.403,806,14970
+2017,Agosto,Exportación,Hong Kong,ton,0.333,665,11895
+2017,Diciembre,Exportación,Hong Kong,ton,0.675,5538,104078
+2017,Enero,Exportación,Italia,ton,42.951,152476,3264648
+2017,Febrero,Exportación,Italia,ton,60,214998,4438103
+2017,Julio,Exportación,Italia,ton,43.2,166320,2924504
+2017,Agosto,Exportación,Italia,ton,10.33,30991,553140
+2017,Septiembre,Exportación,Italia,ton,54.605,208384,3732963
+2017,Octubre,Exportación,Italia,ton,105,266700,4969341
+2017,Enero,Exportación,Japón,ton,43.174,125205,2705619
+2017,Febrero,Exportación,Japón,ton,0.036,8,163
+2017,Abril,Exportación,Japón,ton,21.601,61563,1155202
+2017,Mayo,Exportación,Japón,ton,21.6,61560,1169757
+2017,Junio,Exportación,Japón,ton,126.949,581467,10679142
+2017,Julio,Exportación,Japón,ton,116.944,500190,8906374
+2017,Agosto,Exportación,Japón,ton,38.7,173116,3084687
+2017,Septiembre,Exportación,Japón,ton,31.519,124092,2199412
+2017,Octubre,Exportación,Japón,ton,85.36,320209,5940585
+2017,Julio,Exportación,Líbano,ton,0.003,16,300
+2017,Marzo,Exportación,Noruega,ton,21.6,67500,1289722
+2017,Enero,Exportación,Países Bajos,ton,24,85200,1791006
+2017,Junio,Exportación,Países Bajos,ton,43.2,166752,3027716
+2017,Agosto,Exportación,Países Bajos,ton,43.2,166752,2980859
+2017,Septiembre,Exportación,Países Bajos,ton,66.4,171828,3041511
+2017,Octubre,Exportación,Países Bajos,ton,66.6,171828,3133059
+2017,Diciembre,Exportación,Países Bajos,ton,48.318,186507,3515482
+2017,Enero,Exportación,Países no Identificados,ton,0.116,3254,71297
+2017,Febrero,Exportación,Países no Identificados,ton,0.12,3249,66050
+2017,Marzo,Exportación,Países no Identificados,ton,0.131,3801,74604
+2017,Abril,Exportación,Países no Identificados,ton,0.109,3174,59551
+2017,Mayo,Exportación,Países no Identificados,ton,0.093,2708,50065
+2017,Julio,Exportación,Países no Identificados,ton,0.095,2757,50190
+2017,Noviembre,Exportación,Países no Identificados,ton,0.069,1889,36144
+2017,Enero,Exportación,Panamá,ton,21.6,51840,1135524
+2017,Marzo,Exportación,Panamá,ton,0.088,392,7832
+2017,Junio,Exportación,Panamá,ton,43.322,140961,2550332
+2017,Julio,Exportación,Panamá,ton,0.12,588,10440
+2017,Enero,Exportación,Portugal,ton,216,394200,8265152
+2017,Junio,Exportación,Portugal,ton,44.4,117660,2187782
+2017,Enero,Exportación,Reino Unido,ton,45,102375,2208618
+2017,Febrero,Exportación,Reino Unido,ton,108.18,268819,5549845
+2017,Marzo,Exportación,Reino Unido,ton,282.9,807224,15569598
+2017,Abril,Exportación,Reino Unido,ton,43.2,103140,1941880
+2017,Mayo,Exportación,Reino Unido,ton,64.5,159414,3037805
+2017,Junio,Exportación,Reino Unido,ton,286.1,841800,15260119
+2017,Julio,Exportación,Reino Unido,ton,1100.289,3403518,60699404
+2017,Agosto,Exportación,Reino Unido,ton,745.816,2344187,41855385
+2017,Septiembre,Exportación,Reino Unido,ton,262.8,841693,14953832
+2017,Octubre,Exportación,Reino Unido,ton,108.175,376244,7103738
+2017,Noviembre,Exportación,Reino Unido,ton,42.594,119263,2282089
+2017,Diciembre,Exportación,Reino Unido,ton,165.3,494976,9321707
+2017,Junio,Exportación,República Checa,ton,64.8,194400,3523889
+2017,Julio,Exportación,República Checa,ton,42,121800,2133132
+2017,Abril,Exportación,República Dominicana,ton,0.084,1324,24786
+2017,Abril,Exportación,Singapur,ton,0.007,90,1695
+2017,Enero,Exportación,Suiza,ton,140.277,341402,7297469
+2017,Febrero,Exportación,Suiza,ton,144.452,385202,7763805
+2017,Marzo,Exportación,Suiza,ton,90.914,229431,4483142
+2017,Mayo,Exportación,Suiza,ton,67.5,158175,2947934
+2017,Junio,Exportación,Suiza,ton,692.388,2177387,39499170
+2017,Julio,Exportación,Suiza,ton,229.05,760221,13673785
+2017,Agosto,Exportación,Suiza,ton,132.788,459045,8135281
+2017,Septiembre,Exportación,Suiza,ton,209.904,597648,10646905
+2017,Diciembre,Exportación,Suiza,ton,46.797,162667,3155112
+2017,Mayo,Exportación,Venezuela,ton,0.009,5,94
+2017,Junio,Exportación,Venezuela,ton,0.002,3,62
+2017,Septiembre,Exportación,Venezuela,ton,0.001,1,15
+2018,Enero,Exportación,Alemania,ton,1040.166,3797075,71868462
+2018,Febrero,Exportación,Alemania,ton,1027.613,3858580,71714352
+2018,Marzo,Exportación,Alemania,ton,740.469,2646113,49417607
+2018,Abril,Exportación,Alemania,ton,1955.381,6655776,122414787
+2018,Mayo,Exportación,Alemania,ton,2054.447,7163269,139813409
+2018,Junio,Exportación,Alemania,ton,3529.528,11936361,243454817
+2018,Julio,Exportación,Alemania,ton,3697.223,11099405,212290791
+2018,Agosto,Exportación,Alemania,ton,2073.564,6729646,126499692
+2018,Septiembre,Exportación,Alemania,ton,1695.88,5680958,108638851
+2018,Octubre,Exportación,Alemania,ton,429.487,1316556,24943693
+2018,Noviembre,Exportación,Alemania,ton,409.756,1378665,27738459
+2018,Diciembre,Exportación,Alemania,ton,193.881,590094,11893072
+2018,Febrero,Exportación,Arabia Saudita,ton,358.8,1178464,21984005
+2018,Marzo,Exportación,Arabia Saudita,ton,393.6,1272804,23556377
+2018,Abril,Exportación,Arabia Saudita,ton,601.2,1966559,36133546
+2018,Mayo,Exportación,Arabia Saudita,ton,797.6,2596490,50732123
+2018,Junio,Exportación,Arabia Saudita,ton,413.2,1338768,27351952
+2018,Julio,Exportación,Arabia Saudita,ton,187.2,603742,11697233
+2018,Agosto,Exportación,Arabia Saudita,ton,154.4,510220,9658280
+2018,Noviembre,Exportación,Arabia Saudita,ton,108,344520,7061868
+2018,Diciembre,Exportación,Arabia Saudita,ton,582,1685808,34212907
+2018,Enero,Exportación,Bélgica,ton,20.726,84977,1600636
+2018,Febrero,Exportación,Bélgica,ton,20.763,85128,1587268
+2018,Abril,Exportación,Bélgica,ton,94.2,281220,5087632
+2018,Mayo,Exportación,Bélgica,ton,186.713,644132,12727956
+2018,Junio,Exportación,Bélgica,ton,343.267,1112824,22709872
+2018,Julio,Exportación,Bélgica,ton,149.418,475728,9261268
+2018,Agosto,Exportación,Bélgica,ton,88.868,251078,4680075
+2018,Septiembre,Exportación,Bélgica,ton,157.888,422931,8112043
+2018,Octubre,Exportación,Bélgica,ton,66.594,195343,3743503
+2018,Noviembre,Exportación,Bélgica,ton,91.2,271320,5459256
+2018,Diciembre,Exportación,Bélgica,ton,45.6,155496,3144394
+2018,Abril,Exportación,Canadá,ton,16.8,42840,780734
+2018,Junio,Exportación,Canadá,ton,1.202,2882,58781
+2018,Enero,Exportación,Chile,ton,0.122,619,12068
+2018,Abril,Exportación,Chile,ton,0.092,464,8453
+2018,Mayo,Exportación,China,ton,3.6,7200,140962
+2018,Junio,Exportación,China,ton,21.601,122541,2512407
+2018,Octubre,Exportación,China,ton,0.021,23,441
+2018,Noviembre,Exportación,China,ton,3.54,7080,141783
+2018,Febrero,Exportación,Colombia,ton,24,76800,1429010
+2018,Marzo,Exportación,Colombia,ton,24,76800,1448525
+2018,Julio,Exportación,Colombia,ton,24,68400,1268923
+2018,Septiembre,Exportación,Colombia,ton,48,144000,2702794
+2018,Noviembre,Exportación,Colombia,ton,24,67200,1334652
+2018,Diciembre,Exportación,Cuba,ton,0.048,402,8046
+2018,Febrero,Exportación,Dinamarca,ton,22.095,99428,1829506
+2018,Mayo,Exportación,Dinamarca,ton,21,95760,1876082
+2018,Julio,Exportación,Dinamarca,ton,63,255360,4793337
+2018,Agosto,Exportación,Dinamarca,ton,83.7,326430,6132979
+2018,Septiembre,Exportación,Dinamarca,ton,42,163800,3147204
+2018,Mayo,Exportación,Emiratos Árabes Unidos,ton,100.5,314703,6208044
+2018,Julio,Exportación,Emiratos Árabes Unidos,ton,21,60900,1209675
+2018,Septiembre,Exportación,Emiratos Árabes Unidos,ton,0.57,6834,129009
+2018,Enero,Exportación,España,ton,65.219,283595,5482040
+2018,Febrero,Exportación,España,ton,23.89,105355,1965649
+2018,Marzo,Exportación,España,ton,21,90720,1698424
+2018,Abril,Exportación,España,ton,20.977,84957,1581981
+2018,Mayo,Exportación,España,ton,24,75600,1451649
+2018,Julio,Exportación,España,ton,36.763,132390,2503931
+2018,Agosto,Exportación,España,ton,18.3,84180,1619110
+2018,Septiembre,Exportación,España,ton,10.065,42776,806401
+2018,Octubre,Exportación,España,ton,43.2,110160,2181410
+2018,Noviembre,Importación,España,ton,0,6,115
+2018,Noviembre,Exportación,España,ton,42.598,181468,3722951
+2018,Enero,Exportación,Estados Unidos,ton,192.063,758739,14338971
+2018,Febrero,Exportación,Estados Unidos,ton,72.274,263388,4911237
+2018,Marzo,Exportación,Estados Unidos,ton,82.447,322311,6007984
+2018,Abril,Exportación,Estados Unidos,ton,219.847,862736,15861210
+2018,Mayo,Exportación,Estados Unidos,ton,674.516,2799823,54277713
+2018,Junio,Exportación,Estados Unidos,ton,18637.833,3294382,67072102
+2018,Julio,Exportación,Estados Unidos,ton,2214.643,1777762,34012742
+2018,Agosto,Exportación,Estados Unidos,ton,205.198,805398,15096024
+2018,Septiembre,Exportación,Estados Unidos,ton,217.584,791154,15086963
+2018,Octubre,Exportación,Estados Unidos,ton,200.66,706885,13573006
+2018,Noviembre,Exportación,Estados Unidos,ton,93.618,340467,6863446
+2018,Diciembre,Exportación,Estados Unidos,ton,151.242,474344,9544931
+2018,Enero,Exportación,Francia,ton,42.588,164816,3100395
+2018,Febrero,Exportación,Francia,ton,44.22,164379,3041016
+2018,Abril,Exportación,Francia,ton,81.9,275640,5140523
+2018,Mayo,Exportación,Francia,ton,1.8,4320,80718
+2018,Junio,Importación,Francia,ton,0.263,2868,56093
+2018,Junio,Exportación,Francia,ton,11.052,57155,1170426
+2018,Agosto,Importación,Francia,ton,0.554,5828,111201
+2018,Agosto,Exportación,Francia,ton,118.2,365730,6862913
+2018,Septiembre,Exportación,Francia,ton,21.6,83160,1609529
+2018,Octubre,Importación,Francia,ton,0.554,5787,109248
+2018,Octubre,Exportación,Francia,ton,0.046,2,33
+2018,Noviembre,Exportación,Francia,ton,26.631,106303,2172489
+2018,Octubre,Exportación,Honduras,ton,0.034,258,4838
+2018,Mayo,Exportación,Hong Kong,ton,0.336,2820,53925
+2018,Agosto,Exportación,Hong Kong,ton,0.017,0,1
+2018,Junio,Importación,Hungría,ton,0.04,1317,26341
+2018,Julio,Importación,Hungría,ton,0.02,955,18812
+2018,Agosto,Importación,Hungría,ton,0.02,1014,18891
+2018,Octubre,Importación,Hungría,ton,0.02,844,16407
+2018,Noviembre,Importación,Hungría,ton,0.04,1253,25479
+2018,Diciembre,Importación,Hungría,ton,0.06,2661,54101
+2018,Julio,Exportación,India,ton,1.77,13594,256721
+2018,Febrero,Exportación,Italia,ton,19.885,75563,1405661
+2018,Junio,Exportación,Italia,ton,37.8,140763,2903612
+2018,Julio,Exportación,Italia,ton,18.06,67725,1279014
+2018,Agosto,Exportación,Italia,ton,15.652,58695,1118815
+2018,Septiembre,Exportación,Italia,ton,0.008,172,3335
+2018,Noviembre,Exportación,Italia,ton,45.35,150648,3039740
+2018,Diciembre,Exportación,Italia,ton,17.458,65467,1317710
+2018,Febrero,Exportación,Japón,ton,42.867,137174,2524064
+2018,Abril,Exportación,Japón,ton,21.6,109080,2057554
+2018,Mayo,Exportación,Japón,ton,85.357,428919,8380518
+2018,Junio,Exportación,Japón,ton,106.998,488067,9856137
+2018,Julio,Exportación,Japón,ton,42.84,144958,2824273
+2018,Agosto,Exportación,Japón,ton,106.194,450629,8403618
+2018,Septiembre,Exportación,Japón,ton,18.88,35872,677174
+2018,Noviembre,Exportación,Japón,ton,43.081,144321,2892748
+2018,Diciembre,Exportación,Japón,ton,21.303,96929,1972062
+2018,Septiembre,Exportación,Omán,ton,21,65100,1254347
+2018,Mayo,Exportación,Países Bajos,ton,243.801,796427,15494474
+2018,Junio,Exportación,Países Bajos,ton,67.2,220128,4435454
+2018,Julio,Exportación,Países Bajos,ton,216,594000,11212522
+2018,Agosto,Exportación,Países Bajos,ton,105.574,380108,7183856
+2018,Enero,Exportación,Países no Identificados,ton,0.091,2714,50147
+2018,Septiembre,Exportación,Países no Identificados,ton,0.233,6863,130786
+2018,Octubre,Exportación,Países no Identificados,ton,0.071,2018,38590
+2018,Noviembre,Exportación,Países no Identificados,ton,0.045,1550,31461
+2018,Diciembre,Exportación,Países no Identificados,ton,0.055,1854,37946
+2018,Febrero,Exportación,Panamá,ton,0.144,693,12924
+2018,Abril,Exportación,Panamá,ton,43.2,140400,2554578
+2018,Mayo,Exportación,Panamá,ton,43.2,140400,2715553
+2018,Agosto,Exportación,Panamá,ton,43.2,140400,2641907
+2018,Septiembre,Exportación,Panamá,ton,21.6,70200,1322561
+2018,Noviembre,Exportación,Panamá,ton,21.6,70200,1427664
+2018,Diciembre,Exportación,Panamá,ton,21.6,70200,1427426
+2018,Octubre,Exportación,Polonia,ton,86.4,237600,4514400
+2018,Enero,Exportación,Reino Unido,ton,63.878,177809,3457023
+2018,Febrero,Exportación,Reino Unido,ton,66.6,213120,3950393
+2018,Marzo,Exportación,Reino Unido,ton,336,1062228,19678130
+2018,Abril,Exportación,Reino Unido,ton,561.26,1748188,32640039
+2018,Mayo,Exportación,Reino Unido,ton,701.376,2210533,43223729
+2018,Junio,Exportación,Reino Unido,ton,436.055,1423303,28985195
+2018,Julio,Exportación,Reino Unido,ton,1016.552,2914795,55184724
+2018,Agosto,Exportación,Reino Unido,ton,647.484,1808303,33623515
+2018,Septiembre,Exportación,Reino Unido,ton,250.124,699632,13396493
+2018,Octubre,Exportación,Reino Unido,ton,271.5,730236,13866615
+2018,Noviembre,Exportación,Reino Unido,ton,283.68,746172,15069605
+2018,Diciembre,Exportación,Reino Unido,ton,167.54,422037,8523025
+2018,Octubre,Exportación,República Checa,ton,42.618,155556,2943145
+2018,Noviembre,Exportación,República Checa,ton,20.093,73339,1481626
+2018,Enero,Exportación,Suiza,ton,63.572,214232,3982080
+2018,Febrero,Exportación,Suiza,ton,46.72,189240,3482092
+2018,Marzo,Exportación,Suiza,ton,161.096,536678,9932271
+2018,Abril,Exportación,Suiza,ton,450.6,1437252,26275290
+2018,Mayo,Exportación,Suiza,ton,85.5,339489,6673768
+2018,Junio,Exportación,Suiza,ton,368.7,1297536,26207155
+2018,Julio,Exportación,Suiza,ton,21.6,79920,1506540
+2018,Septiembre,Exportación,Suiza,ton,24,60000,1131096
+2018,Octubre,Exportación,Suiza,ton,91.2,284160,5373774
+2018,Noviembre,Exportación,Suiza,ton,24,60000,1191654
+2018,Junio,Exportación,Tailandia,ton,7.08,26196,538409
+2018,Septiembre,Exportación,Tailandia,ton,7.08,26196,494290
+2018,Noviembre,Exportación,Tailandia,ton,7.08,26196,525067
+2018,Abril,Exportación,Taiwán,ton,1.517,10415,187248
+2018,Enero,Exportación,Venezuela,ton,0.001,1,22
+2018,Mayo,Exportación,Venezuela,ton,0.001,2,40
+2018,Julio,Exportación,Venezuela,ton,0.001,1,20
+2019,Enero,Exportación,Estados Unidos,ton,131.722,454694,8746603
+2019,Enero,Exportación,Francia,ton,7.56,42000,818588
+2019,Enero,Exportación,Bulgaria,ton,45.704,114260,2207595
+2019,Enero,Exportación,Corea del Sur,ton,0.125,383,7501
+2019,Enero,Exportación,Alemania,ton,276.102,768643,14627590
+2019,Enero,Exportación,Arabia Saudita,ton,92.8,259756,5035431
+2019,Enero,Exportación,Suiza,ton,23.885,72834,1393293
+2019,Enero,Exportación,Venezuela,ton,0.001,2,29
+2019,Enero,Exportación,Italia,ton,43.2,125280,2385094
+2019,Enero,Exportación,Reino Unido,ton,171.857,455020,8691296
+2019,Enero,Exportación,Colombia,ton,24,67200,1300179
+2019,Febrero,Exportación,Francia,ton,42,129990,2488768
+2019,Febrero,Exportación,Países Bajos,ton,108.099,301686,5786587
+2019,Febrero,Exportación,Reino Unido,ton,45,112500,2155837
+2019,Febrero,Exportación,Alemania,ton,409.677,1076642,20678100
+2019,Febrero,Exportación,Japón,ton,22.534,45068,861240
+2019,Febrero,Exportación,India,ton,2.065,10552,203211
+2019,Febrero,Exportación,Estados Unidos,ton,88.635,282992,5437147
+2019,Febrero,Exportación,Italia,ton,21.6,62640,1195754
+2019,Febrero,Exportación,Hong Kong,ton,0.484,4061,78202
+2019,Marzo,Exportación,India,ton,7.08,26196,506193
+2019,Marzo,Exportación,Alemania,ton,616.161,1606132,30786039
+2019,Marzo,Exportación,Reino Unido,ton,224.14,530482,10231108
+2019,Marzo,Exportación,Estados Unidos,ton,196.627,640514,12396098
+2019,Marzo,Exportación,Arabia Saudita,ton,47.2,149860,2827768
+2019,Marzo,Exportación,Costa Rica,ton,0.001,1,15
+2019,Marzo,Exportación,Francia,ton,64.714,197378,3729703
+2019,Abril,Importación,Hungría,ton,0.02,897,17207
+2019,Abril,Exportación,China,ton,37.814,90754,1709430
+2019,Abril,Exportación,Bélgica,ton,232.5,613950,11696084
+2019,Abril,Exportación,Dinamarca,ton,21,54600,1028839
+2019,Abril,Exportación,Japón,ton,0.2,1120,21096
+2019,Abril,Exportación,Reino Unido,ton,209.2,536593,10201872
+2019,Abril,Exportación,República Checa,ton,40.962,159752,3009085
+2019,Abril,Exportación,Estados Unidos,ton,187.437,612622,11623100
+2019,Abril,Exportación,Suiza,ton,192,473280,8994497
+2019,Abril,Exportación,Países Bajos,ton,66.532,179054,3388015
+2019,Abril,Exportación,Italia,ton,10.224,32717,614156
+2019,Abril,Exportación,Alemania,ton,603.022,1582294,29997466
+2019,Abril,Exportación,Canadá,ton,9.606,22151,417389
+2019,Mayo,Exportación,Alemania,ton,2149.294,5338002,101905141
+2019,Mayo,Exportación,Panamá,ton,21.6,58320,1116560
+2019,Mayo,Exportación,Suiza,ton,354.18,905036,17271510
+2019,Mayo,Exportación,España,ton,23.6,64310,1228411
+2019,Mayo,Exportación,Países Bajos,ton,109.75,289047,5531943
+2019,Mayo,Exportación,Países no Identificados,ton,0.152,5695,108301
+2019,Mayo,Exportación,Estados Unidos,ton,371.206,1201431,22960506
+2019,Mayo,Exportación,Arabia Saudita,ton,250.8,663708,12687810
+2019,Mayo,Exportación,Dinamarca,ton,42,109200,2075881
+2019,Mayo,Exportación,Japón,ton,21.596,98262,1892748
+2019,Mayo,Exportación,Bélgica,ton,88.4,230994,4395901
+2019,Mayo,Exportación,Omán,ton,40.8,98736,1885996
+2019,Mayo,Exportación,Reino Unido,ton,267.6,659030,12588402
+2019,Mayo,Exportación,Italia,ton,21.6,62640,1199099
+2019,Mayo,Exportación,Francia,ton,103.8,289560,5523898
+2019,Mayo,Exportación,República Checa,ton,21.26,54213,1033896
+2019,Junio,Exportación,Estados Unidos,ton,661.002,2055691,39977944
+2019,Junio,Exportación,Alemania,ton,2786.533,6879076,132344775
+2019,Junio,Exportación,España,ton,87.054,220249,4318093
+2019,Junio,Exportación,Arabia Saudita,ton,159.6,446652,8565189
+2019,Junio,Exportación,Reino Unido,ton,655.3,1394337,26798430
+2019,Junio,Exportación,Japón,ton,42.48,82836,1613604
+2019,Junio,Exportación,Dinamarca,ton,63,163801,3187387
+2019,Junio,Exportación,Países Bajos,ton,110.584,273443,5274796
+2019,Junio,Exportación,Suiza,ton,204,501900,9643293
+2019,Junio,Exportación,Francia,ton,82.789,241340,4650823
+2019,Junio,Exportación,Bélgica,ton,128.1,362397,7025802
+2019,Junio,Exportación,Países no Identificados,ton,0.18,7091,139707
+2019,Julio,Exportación,Estados Unidos,ton,425.561,1371285,26119408
+2019,Julio,Exportación,Panamá,ton,21.6,58320,1113329
+2019,Julio,Exportación,Reino Unido,ton,783.31,1714106,32591972
+2019,Julio,Exportación,Países Bajos,ton,133.197,322306,6179375
+2019,Julio,Exportación,Dinamarca,ton,21,73290,1402148
+2019,Julio,Exportación,España,ton,111.5,233975,4470362
+2019,Julio,Exportación,Arabia Saudita,ton,94.4,253370,4875465
+2019,Julio,Exportación,Alemania,ton,2137.148,5313735,101307149
+2019,Julio,Exportación,Suiza,ton,453.6,1104600,21136949
+2019,Julio,Exportación,Bélgica,ton,90,265050,5057400
+2019,Julio,Exportación,Francia,ton,44.413,133654,2545730
+2019,Julio,Exportación,Japón,ton,110.264,339806,6482861
+2019,Julio,Exportación,Venezuela,ton,0.001,1,21
+2019,Julio,Exportación,Canadá,ton,0.2,156,2978
+2019,Julio,Exportación,República Checa,ton,42.635,149222,2835869
+2019,Agosto,Exportación,Países Bajos,ton,88.418,201820,3976088
+2019,Agosto,Exportación,Reino Unido,ton,898.916,1836787,35936318
+2019,Agosto,Exportación,Francia,ton,37.217,135184,2640913
+2019,Agosto,Exportación,Japón,ton,0.1,700,13995
+2019,Agosto,Exportación,Tailandia,ton,7.08,27612,536454
+2019,Agosto,Exportación,Italia,ton,7.04,12427,243924
+2019,Agosto,Exportación,Países no Identificados,ton,0.046,1925,38556
+2019,Agosto,Exportación,Bélgica,ton,86.455,249423,4870211
+2019,Agosto,Exportación,Arabia Saudita,ton,45.6,126768,2481242
+2019,Agosto,Exportación,España,ton,43.9,119378,2371489
+2019,Agosto,Exportación,Alemania,ton,1750.497,4282103,84236137
+2019,Agosto,Exportación,Canadá,ton,0.134,1355,25965
+2019,Agosto,Exportación,Corea del Sur,ton,0.224,1940,36848
+2019,Agosto,Exportación,Suiza,ton,186.6,427560,8460682
+2019,Agosto,Exportación,Estados Unidos,ton,378.716,1087894,21418693
+2019,Septiembre,Exportación,Alemania,ton,1375.049,3209103,62785509
+2019,Septiembre,Exportación,España,ton,260.859,556052,10881833
+2019,Septiembre,Exportación,Bélgica,ton,21.6,45900,888294
+2019,Septiembre,Exportación,Colombia,ton,24,55200,1086524
+2019,Septiembre,Exportación,Emiratos Árabes Unidos,ton,2.52,5313,105095
+2019,Septiembre,Exportación,Países no Identificados,ton,0.151,4968,97201
+2019,Septiembre,Exportación,Reino Unido,ton,296,622268,12241461
+2019,Septiembre,Exportación,Japón,ton,42.525,118753,2332919
+2019,Septiembre,Exportación,Francia,ton,153.516,419640,8242807
+2019,Septiembre,Exportación,Polonia,ton,21.6,36720,717501
+2019,Septiembre,Exportación,Estados Unidos,ton,232.145,630903,12369390
+2019,Septiembre,Exportación,Panamá,ton,43.2,116640,2299913
+2019,Septiembre,Exportación,Suiza,ton,43.2,131760,2574564
+2019,Octubre,Importación,Francia,ton,0.275,3015,58637
+2019,Octubre,Exportación,Bélgica,ton,43.2,87480,1678758
+2019,Octubre,Exportación,Alemania,ton,567.271,1273874,24660946
+2019,Octubre,Exportación,China,ton,18.907,45377,886005
+2019,Octubre,Exportación,Reino Unido,ton,63.65,109400,2163845
+2019,Octubre,Exportación,Australia,ton,3.6,11124,212654
+2019,Octubre,Exportación,España,ton,177.2,329550,6412591
+2019,Octubre,Exportación,Países Bajos,ton,21.554,50652,965136
+2019,Octubre,Exportación,Venezuela,ton,0.002,2,38
+2019,Octubre,Exportación,Suiza,ton,64.8,165240,3250505
+2019,Octubre,Exportación,Portugal,ton,216,399600,7674218
+2019,Octubre,Exportación,Dinamarca,ton,41.4,89838,1726102
+2019,Octubre,Exportación,Japón,ton,31.44,76344,1472135
+2019,Octubre,Exportación,Francia,ton,41.732,116483,2228789
+2019,Octubre,Exportación,Estados Unidos,ton,288.362,812644,15642266
+2019,Octubre,Exportación,Singapur,ton,0.54,3980,76671
+2019,Noviembre,Exportación,Reino Unido,ton,70.8,153924,2949845
+2019,Noviembre,Exportación,España,ton,293.4,602670,11616198
+2019,Noviembre,Exportación,Alemania,ton,86.1,172275,3301751
+2019,Noviembre,Exportación,Estados Unidos,ton,160.921,520494,10040753
+2019,Noviembre,Exportación,Tailandia,ton,7.08,23010,451256
+2019,Noviembre,Exportación,Venezuela,ton,0.001,1,27
+2019,Noviembre,Exportación,Panamá,ton,21.6,58320,1134137
+2019,Diciembre,Importación,España,ton,0.001,12,233
+2019,Diciembre,Importación,Hungría,ton,0.001,13,259
+2019,Diciembre,Exportación,Países no Identificados,ton,0.066,3051,58583
+2019,Diciembre,Exportación,Hong Kong,ton,0.7,3726,71674
+2019,Diciembre,Exportación,Tailandia,ton,7.08,23010,435913
+2019,Diciembre,Exportación,Estados Unidos,ton,292.969,770739,14771215
+2019,Diciembre,Exportación,España,ton,21,33600,649310
+2019,Diciembre,Exportación,Alemania,ton,499.684,1116411,21267449
+2019,Diciembre,Exportación,Reino Unido,ton,108.9,244785,4705316
+2019,Diciembre,Exportación,Bélgica,ton,43.2,79920,1556098
